@@ -1,0 +1,7 @@
+/bin/
+*.jar
+*.xml
+
+/Users/Håkon/workspace/master17/.classpath
+
+/Users/Håkon/workspace/master17/jdbcdriver/*
