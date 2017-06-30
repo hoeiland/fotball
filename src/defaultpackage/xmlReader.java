@@ -24,7 +24,7 @@ public class xmlReader {
 		File folder = new File("eventfeeds");
 		File[] listOfFiles = folder.listFiles();
 		ArrayList<ArrayList<Event>> gameList = new ArrayList<ArrayList<Event>>();
-		for(int i = 1; i < listOfFiles.length; i++){
+		for(int i = 0; i < 1; i++){
 			long startTime = System.nanoTime();
 			System.out.println(listOfFiles[i].toString());
 			Document doc = getDocument(listOfFiles[i].toString());
@@ -518,7 +518,7 @@ public class xmlReader {
 		File[] listOfFiles = folder.listFiles();
 		ArrayList<Game> games = new ArrayList<Game>();
 
-		for(int i = 1; i < listOfFiles.length; i++){
+		for(int i = 0; i < listOfFiles.length; i++){
 			long startTime = System.nanoTime();
 			Document doc = xmlReader.getDocument(listOfFiles[i].toString());
 			Game game = xmlReader.getGame(doc);
