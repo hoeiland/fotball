@@ -133,4 +133,57 @@ public class Dbhandler {
 		closeConnection();
 		
 	}
+
+	public static ResultSet getDatabaseStateAction() throws ClassNotFoundException, SQLException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		String query = "SELECT * FROM StateAction";
+		ResultSet rs = stmt.executeQuery(query);
+		return rs;
+	}
+
+	public static ResultSet getDatabaseStates() throws ClassNotFoundException, SQLException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		String query = "SELECT* FROM State";
+		ResultSet rs = stmt.executeQuery(query);
+		return rs;
+	}
+
+	public static void updateStateActionQ(Hashtable<String, StateAction> saList) throws SQLException, ClassNotFoundException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		String sql = "";
+		Set<String> keys = saList.keySet();
+
+		for(String key: keys ){
+			int stateID = Integer.parseInt(key.replaceAll("[^\\d.]", ""));
+			String action = key.replaceAll(Integer.toString(stateID), "");
+			double qValue = saList.get(key).getValue();
+			sql = "UPDATE StateAction SET Value = "+ qValue + " WHERE StateID = " + stateID + " AND Action = '" + action+ "';\n";
+			stmt.addBatch(sql);
+		}
+		int[] updateCounts = stmt.executeBatch();
+		System.out.println("StateActions Qvalues updated ");
+		closeConnection();
+		
+	}
+
+	public static void updateStateValues(Hashtable<Integer, State> stateList) throws ClassNotFoundException, SQLException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		String sql;
+		Set<Integer> keys = stateList.keySet();
+		for(Integer stateID : keys){
+			State state = stateList.get(stateID);
+			double stateValue = state.getValue();
+			sql = "UPDATE State SET Value=" + stateValue +" WHERE StateID = "+stateID+";\n";
+			stmt.addBatch(sql);
+
+		}
+		int [] updateCounts = stmt.executeBatch();
+		System.out.println("StateValues updated on State");
+		closeConnection();
+		
+	}
 }
