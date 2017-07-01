@@ -13,7 +13,8 @@ public class maintest {
 		//xmlReader.sendGamesFromEventFeeds();
 		//MarkovBuilder.buildFromEvents();
 		//MarkovBuilder.setStateAction();
-		Reinforcement.learning();
-		
+//		Reinforcement.learning();
+//		ReadSquads.insertAllSeasonsNorway();
+		ReadSquads.findPlayerTeam();
 	}
 }
