@@ -186,4 +186,19 @@ public class Dbhandler {
 		closeConnection();
 		
 	}
+
+	public static void insertPlayer(String sqlString) throws ClassNotFoundException, SQLException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		stmt.execute(sqlString);
+		closeConnection();
+	}
+
+	public static void updatePlayerTeam(String sql) throws ClassNotFoundException, SQLException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		System.out.println(sql);
+		stmt.execute(sql);
+		closeConnection();
+	}
 }
