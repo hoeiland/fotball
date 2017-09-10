@@ -9,10 +9,10 @@ import org.xml.sax.SAXException;
 
 public class maintest {
 	public static void main(String[] args) throws ClassNotFoundException, SAXException, IOException, ParserConfigurationException, SQLException {
-		//xmlReader.readEventFiles();
-		//xmlReader.sendGamesFromEventFeeds();
-		//MarkovBuilder.buildFromEvents();
-		//MarkovBuilder.setStateAction();
+//		xmlReader.readEventFiles();
+//		xmlReader.sendGamesFromEventFeeds();
+//		MarkovBuilder.buildFromEvents();
+//		MarkovBuilder.setStateAction();
 //		Reinforcement.learning();
 //		ReadSquads.insertAllSeasonsNorway();
 		ReadSquads.findPlayerTeam();
