@@ -201,4 +201,61 @@ public class Dbhandler {
 		stmt.execute(sql);
 		closeConnection();
 	}
+	
+	public static ResultSet getEventsAndValues() throws ClassNotFoundException, SQLException{
+		openConnection();
+		Statement stmt = conn.createStatement();
+		String query = "SELECT E.Number, E.EventID, E.Action, E.TeamID, E.PlayerID, E.GameID, E.StateTransitionID, "
+				+ "ST.TransitionID, ST.StartID, ST.EndID, SA.StateID, SA.Action, SA.Value AS QValue, StartS.Value AS StartValue, EndS.Value AS EndValue, EndS.Reward AS Endreward, G.HomeID, G.AwayID "
+				+ "FROM `Event` AS E "
+				+ "INNER JOIN StateTransition AS ST ON E.StateTransitionID=ST.TransitionID "
+				+ "INNER JOIN State AS StartS ON ST.StartID=StartS.StateID "
+				+ "INNER JOIN StateAction AS SA ON ST.StartID=SA.StateID "
+				+ "INNER JOIN State AS EndS	ON ST.EndID=EndS.StateID "
+				+ "INNER JOIN Game AS G	ON E.GameID=G.GameID WHERE SA.Action = E.Action "
+				+ "ORDER BY E.EventID ASC";
+		ResultSet rs = stmt.executeQuery(query);
+		return rs;
+	}
+	
+	public static void insertPlayerImpact(ArrayList<PlayerImpact> playerValues) throws SQLException, ClassNotFoundException{
+		openConnection();
+		Statement stmt = conn.createStatement();
+		for (int i = 0 ; i < playerValues.size() ; i++){
+			PlayerImpact pi = playerValues.get(i);
+			String sql = "INSERT INTO playergameimpact"+" VALUES ("+pi.getPlayerID()+"," + pi.getGameID() + "," + pi.getTeamID() + "," +pi.getTotal() +","+pi.getPass() +","+ pi.getLongPass() + "," + pi.getBallCarry() + "," + pi.getBallRecovery() + "," + pi.getBallReceived() +
+						"," + pi.getAerialDuel() + "," + pi.getClearance() + "," + pi.getThrowInTaken() + "," + pi.getBallTouch() + "," + pi.getInterception() + "," + pi.getBlockedShot() + "," + pi.getSavedShot() + "," + pi.getCross()
+						+ "," + pi.getTackle() + "," + pi.getShot() + "," + pi.getHeadedShot() + "," + pi.getTakeOn() + "," + pi.getFreekickPass() + "," + pi.getFoulCommitted() + "," + pi.getFouled()
+						+"," +pi.getDispossessed() + "," + pi.getCornerTaken()+");\n";
+			stmt.addBatch(sql);
+			System.out.println(sql);
+			
+		}
+		int[] updateCounts = stmt.executeBatch();
+		closeConnection();
+	}
+
+	public static void insertPlayerGameTime(Hashtable<Integer, Hashtable<Integer, PlayerGameTime>> teamGameTimeTable) throws ClassNotFoundException, SQLException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		String sql;
+
+		Set<Integer> teamKeys = teamGameTimeTable.keySet();
+
+		for(int teamID : teamKeys){
+			Hashtable<Integer, PlayerGameTime> playerGameTime = teamGameTimeTable.get(teamID);
+			Set<Integer> playerKeys = playerGameTime.keySet();
+			for (int playerID : playerKeys){
+				int time14 = playerGameTime.get(playerID).getSeason2014();
+				int time15 = playerGameTime.get(playerID).getSeason2015();
+				int time16 = playerGameTime.get(playerID).getSeason2016();
+				int time17 = playerGameTime.get(playerID).getSeason2017();
+				int total = time14+time15+time16+time17;
+				sql = "INSERT INTO PlayerGameTime VALUES ("+ playerID +"," + teamID + "," + time14 + "," + time15 + ","+ time16 + "," + time17 + "," + total +");\n";
+				stmt.addBatch(sql);
+			}
+		}
+		int [] updateCounts = stmt.executeBatch();
+		closeConnection();
+	}
 }
