@@ -1,0 +1,349 @@
+,competition,gsm_id,kickoffDate,kickoffTime,hometeam_team1,awayteam_team2,icon,chanceRating,team,type,time,player,location_x,location_y,bodyPart,shotQuality,defPressure,numDefPlayers,numAttPlayers,outcome,primaryPlayer,primaryType,primaryLocation_x,primaryLocation_y,secondaryPlayer,secondaryType
+109,NorEs,2383868,2017-04-10,17:00:00,Kristiansund,Brann,verygoodchance,verygoodchance,Brann,Open Play,86:16,T. Borven,9.0,36.0,Left,2,4,2,0,Missed,B. Acosta,Open Play Pass,58.0,195.0,-,-
+110,NorEs,2383868,2017-04-10,17:00:00,Kristiansund,Brann,verygoodchance,verygoodchance,Brann,Open Play,82:46,A. Karadas,-17.0,27.0,Head,2,3,2,0,Missed,D. Vega,Cross High,-126.0,63.0,-,-
+111,NorEs,2383868,2017-04-10,17:00:00,Kristiansund,Brann,poorchance,poorchance,Brann,Open Play,67:16,G. Sorensen,48.0,109.0,Right,2,3,3,0,Missed,-,-,-,-,-,-
+112,NorEs,2383868,2017-04-10,17:00:00,Kristiansund,Brann,goodchance,goodchance,Brann,Open Play,50:49,V. Wormgoor,14.0,44.0,Head,1,3,3,0,Missed,F. Haugen,Free Kick,-129.0,113.0,-,-
+113,NorEs,2383868,2017-04-10,17:00:00,Kristiansund,Brann,verygoodchance,verygoodchance,Brann,Open Play,49:04,G. Sorensen,27.0,12.0,Right,2,4,2,0,Saved,D. Vega,Cross High,-89.0,52.0,-,-
+114,NorEs,2383868,2017-04-10,17:00:00,Kristiansund,Brann,goodchance,goodchance,Brann,Open Play,13:04,G. Sorensen,-58.0,38.0,Right,3,3,2,0,Saved,P. Leciejewski,Open Play Pass,-12.0,399.0,-,-
+115,NorEs,2383868,2017-04-10,17:00:00,Kristiansund,Brann,goodchance,goodchance,Brann,Open Play,15:08,K. Barmen,-5.0,34.0,Right,2,3,3,1,Defended,G. Sørensen,Cross Low,-65.0,6.0,A. Nouri,Open Play Pass
+116,NorEs,2383868,2017-04-10,17:00:00,Kristiansund,Brann,greatchance,greatchance,Kristiansund,Dangerous Moment,42:02,J. Mendy,5.0,32.0,Head,0,2,1,0,Defended,B. Stokke,Shot (Woodwork Rebound),-24.0,51.0,A. Coly,Cross High
+117,NorEs,2383868,2017-04-10,17:00:00,Kristiansund,Brann,goodchance,goodchance,Kristiansund,Open Play,63:21,B. Stokke,13.0,55.0,Right,1,2,3,0,Missed,J. Rønningen,Cross High,-92.0,7.0,B. Stokke,Open Play Pass
+18,NorEs,2383868,2017-04-10,17:00:00,Kristiansund,Brann,goal,Penalty,Kristiansund,Penalty,71:07,S. Okland,0.0,44.0,Right,4,0,1,0,-,B. Stokke,Penalty Earned,3.0,56.0,-,-
+1,NorEs,2383868,2017-04-10,17:00:00,Kristiansund,Brann,penawarded,Fairly Good,Kristiansund,Tackle,70:26,-,-,-,-,N/A,-,-,-,Penalty Awarded,-,-,-,-,-,-
+1,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,penmissed,-,Stromsgodset,Penalty Earned,58:06,Marcus Pedersen,-,-,Right,3,-,-,-,Save,M. Tagbajumi,-,31.0,40.0,-,-
+47,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,goal,Very Good,Stabaek,Open play,73:35,T. Brochmann,-36.0,55.0,Right,3,3,1,0,-,M. Sayouba,Open Play Pass,1.0,358.0,-,-
+48,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,goal,Good,Stabaek,Open play,94:31,L. Kassi,2.0,62.0,Left,3,1,3,0,-,M. Njie,Open Play Pass,47.0,31.0,-,-
+49,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,goal,Great,Haugesund,Open play,91:09,S. Ibrahim,2.0,15.0,Left,2,4,1,0,-,-,-,-,-,-,-
+50,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,goal,Fairly Good,Haugesund,Open play,29:09,L. Abdi,17.0,88.0,Right,3,4,3,0,-,E. Huseklepp,Open Play Pass,-89.0,186.0,F. Gytkjaer,Open Play Pass
+59,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,goal,Very Good,Valerenga,Open play,48:50,J. Nation,10.0,12.0,Head,4,0,4,1,-,H. Stengel,Corner,136.0,0.0,M. Abdellaoue,Corner Won
+60,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,goal,Penalty,Sandefjord,Penalty,36:54,F. Kastrati,0.0,44.0,Right,4,0,1,0,-,H. Storbæk,Penalty Earned,-20.0,61.0,F. Kastrati,Open Play Pass
+40,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,goal,Great,Aalesund,Open play,16:58,M. Abdellaoue,-17.0,26.0,Right,3,1,1,0,-,M. Kirkeskov,Cross Low,112.0,69.0,A. Thrandarson,Open Play Pass
+39,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,goal,Great,Stromsgodset,Open play,43:59,M. Tagbajumi,-6.0,29.0,Left,3,2,1,0,-,L. Vilsvik,Cross Low,-64.0,31.0,H. Hauger,Open Play Pass
+61,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,goal,Great,Sandefjord,Open play,72:52,F. Kastrati,2.0,26.0,Head,4,3,1,0,-,H. Storbæk,Cross High,-112.0,35.0,H. Storbaek,Turnover
+62,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,goal,Very Good,Sarpsborg 08,Open play,55:39,A. Ostli,-20.0,18.0,Head,3,3,5,1,-,A. Trondsen,Corner,-136.0,2.0,-,-
+63,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,goal,Poor,Sarpsborg 08,Open play,01:17,A. Trondsen,45.0,106.0,Left,4,2,3,0,-,P. Mortensen,Open Play Pass,-11.0,110.0,-,-
+64,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,goal,Very Good,Sarpsborg 08,Open play,67:14,P. Mortensen,8.0,34.0,Right,4,4,3,0,-,O. Halvorsen,Cross Low,-98.0,2.0,-,-
+76,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,goal,Very Good,Tromso,Open play,52:53,S. Wangberg,4.0,30.0,Head,3,4,2,0,-,G. Åsen,Cross High,-114.0,34.0,-,-
+77,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,goal,Great,Tromso,Open play,45:47,G. Asen,53.0,23.0,Left,3,2,1,0,-,T. Olsen,Open Play Pass,53.0,85.0,-,-
+78,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,goal,Superb,Tromso,Open play,92:46,H. Norbye,0.0,44.0,Right,3,0,0,0,-,T. Olsen,Cross Low,-62.0,26.0,-,-
+5,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,penawarded,Very Good,Stromsgodset,Tackle,56:59,-,-,-,-,N/A,-,-,-,Penalty Awarded,-,-,-,-,-,-
+9,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,penawarded,Very Good,Sandefjord,Tackle,36:05,-,-,-,-,N/A,-,-,-,Penalty Awarded,-,-,-,-,-,-
+341,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,fairlygoodchance,fairlygoodchance,Lillestrom,Open Play,70:03,I. Mathew,2.0,62.0,Right,2,4,5,1,Missed,-,-,-,-,-,-
+340,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,poorchance,poorchance,Lillestrom,Open Play,76:57,M. Haakenstad,47.0,73.0,Right,2,3,8,3,Missed,F. Krogstad,Corner,136.0,2.0,A. Melgalvis,Corner Won
+339,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,poorchance,poorchance,Lillestrom,Open Play,77:26,T. Malec,-27.0,47.0,Right,2,5,3,1,Defended,F. Kippe,Open Play Pass,17.0,38.0,S. Udodji,Corner
+338,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,fairlygoodchance,fairlygoodchance,Lillestrom,Open Play,78:42,I. Mathew,-48.0,32.0,Right,3,4,6,1,Defended,F. Krogstad,Corner,136.0,2.0,T. Malec,Corner Won
+337,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,poorchance,poorchance,Lillestrom,Open Play,86:55,M. Haakenstad,3.0,74.0,Right,1,4,3,1,Defended,S. Antonijevic,Open Play Pass,16.0,59.0,-,-
+336,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,poorchance,poorchance,Haugesund,Open Play,88:07,H. Hajradinovic,11.0,85.0,Right,1,2,3,0,Missed,E. Huseklepp,Open Play Pass,-63.0,43.0,-,-
+335,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,goodchance,goodchance,Odd,Open Play,56:42,F. Nordkvelle,-23.0,42.0,Right,1,5,3,0,Missed,Riku Riski,Open Play Pass,-69.0,20.0,-,-
+334,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,goodchance,goodchance,Odd,Open Play,49:38,F. Nordkvelle,7.0,41.0,Head,2,4,2,0,Missed,M. Broberg,Cross High,-112.0,65.0,O. Occean,Open Play Pass
+333,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,verygoodchance,verygoodchance,Stabaek,Open Play,41:37,O. Omoijuanfo,-21.0,53.0,Right,1,1,1,0,Missed,T. Brochmann,Open Play Pass,-35.0,147.0,-,-
+332,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,goodchance,goodchance,Stabaek,Open Play,40:00,O. Omoijuanfo,31.0,30.0,Head,3,3,2,0,Saved,H. Skogseid,Cross High,-116.0,75.0,-,-
+331,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,poorchance,poorchance,Stabaek,Open Play,32:13,T. Lumanza,1.0,87.0,Right,1,1,4,2,Missed,-,-,-,-,-,-
+330,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,goodchance,goodchance,Odd,Open Play,24:41,Riku Riski,47.0,41.0,Right,1,0,1,0,Missed,F. Nordkvelle,Open Play Pass,41.0,93.0,-,-
+342,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,verygoodchance,verygoodchance,Lillestrom,Dangerous Moment,61:18,T. Malec,13.0,8.0,Left,0,5,2,0,Defended,F. Krogstad,Cross Low,-70.0,19.0,A. Melgalvis,Open Play Pass
+343,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,poorchance,poorchance,Lillestrom,Open Play,60:12,M. Amundsen,9.0,118.0,Right,1,2,0,2,Missed,-,-,-,-,-,-
+344,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,poorchance,poorchance,Lillestrom,Open Play,53:22,M. Skoda,29.0,114.0,Left,1,3,2,0,Missed,T. Malec,Open Play Pass,-108.0,271.0,-,-
+355,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,goodchance,goodchance,Haugesund,Open Play,25:04,S. Ibrahim,25.0,38.0,Head,1,4,2,0,Missed,A. Stølås,Cross High,120.0,109.0,-,-
+358,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,greatchance,greatchance,Lillestrom,Open Play,95:45,F. Kippe,17.0,37.0,Right,2,2,1,0,Saved,T. Malec,Open Play Pass,-14.0,91.0,-,-
+357,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,goodchance,goodchance,Lillestrom,Open Play,38:43,I. Mathew,16.0,53.0,Left,1,4,2,0,Missed,S. Rafn,Open Play Pass,47.0,53.0,I. Mathew,Open Play Pass
+356,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,fairlygoodchance,fairlygoodchance,Lillestrom,Open Play,26:53,T. Malec,12.0,28.0,Head,2,5,3,0,Saved,F. Krogstad,Free Kick,110.0,44.0,S. Rafn,Free Kick Won
+354,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,poorchance,poorchance,Lillestrom,Open Play,21:17,M. Haakenstad,31.0,114.0,Right,1,3,3,0,Missed,-,-,-,-,-,-
+345,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,poorchance,poorchance,Lillestrom,Open Play,52:00,I. Mathew,16.0,89.0,Right,3,2,4,2,Defended,E. Knudtzon,Cross High,-117.0,94.0,-,-
+353,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,fairlygoodchance,fairlygoodchance,Lillestrom,Direct Free-Kick,20:05,F. Krogstad,17.0,87.0,Right,1,0,6,2,Missed,S. Rafn,Free Kick Won,17.0,87.0,-,-
+352,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,poorchance,poorchance,Lillestrom,Open Play,18:42,S. Udodji,-10.0,91.0,Right,2,3,3,1,Saved,T. Malec,Open Play Pass,11.0,71.0,-,-
+351,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,fairlygoodchance,fairlygoodchance,Lillestrom,Open Play,16:03,I. Mathew,34.0,52.0,Right,1,3,3,0,Missed,-,-,-,-,-,-
+350,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,fairlygoodchance,fairlygoodchance,Lillestrom,Open Play,11:54,E. Knudtzon,-9.0,71.0,Left,2,3,3,0,Saved,S. Udodji,Open Play Pass,6.0,145.0,-,-
+349,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,fairlygoodchance,fairlygoodchance,Haugesund,Open Play,11:01,F. Kiss,50.0,45.0,Right,1,3,3,0,Missed,H. Hajradinović,Free Kick,-93.0,115.0,E. Huseklepp,Free Kick Won
+348,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,poorchance,poorchance,Lillestrom,Open Play,05:31,S. Udodji,2.0,63.0,Left,1,4,5,3,Defended,-,-,-,-,-,-
+347,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,poorchance,poorchance,Lillestrom,Open Play,48:58,I. Mathew,-38.0,80.0,Right,2,3,5,3,Defended,-,-,-,-,-,-
+346,NorEs,2383862,2017-04-09,16:00:00,Lillestrom,Haugesund,fairlygoodchance,fairlygoodchance,Lillestrom,Open Play,50:14,I. Mathew,8.0,74.0,Right,3,2,7,1,Missed,-,-,-,-,-,-
+478,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,goodchance,goodchance,Sarpsborg 08,Open Play,29:54,J. Lindberg,55.0,40.0,Right,3,1,3,1,Saved,K. Zachariassen,Cross High,-102.0,5.0,-,-
+476,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,verygoodchance,verygoodchance,Sarpsborg 08,Open Play,46:49,P. Mortensen,-30.0,38.0,Right,2,2,1,0,Missed,J. Lindberg,Free Kick,78.0,121.0,-,-
+475,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,verygoodchance,verygoodchance,Sarpsborg 08,Open Play,47:23,J. Lindberg,36.0,54.0,Left,3,1,3,0,Saved,-,-,-,-,-,-
+474,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,poorchance,poorchance,Sarpsborg 08,Open Play,50:00,J. Thomassen,64.0,96.0,Left,1,1,5,1,Missed,J. Tveita,Cross High,-103.0,7.0,-,-
+473,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,fairlygoodchance,fairlygoodchance,Valerenga,Open Play,90:00,M. Abdellaoue,37.0,54.0,Left,3,4,2,0,Defended,R. Lundström,Open Play Pass,-20.0,115.0,-,-
+472,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,goodchance,goodchance,Valerenga,Open Play,86:30,A. Ibrahim,-26.0,29.0,Head,2,5,3,0,Missed,H. Stengel,Cross High,72.0,43.0,-,-
+471,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,poorchance,poorchance,Valerenga,Open Play,85:23,M. Nakkim,-21.0,50.0,Head,4,1,3,2,Woodwork,A. Ibrahim,Cross High,-100.0,127.0,-,-
+470,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,fairlygoodchance,fairlygoodchance,Sandefjord,Open Play,81:43,A. Seck,-17.0,36.0,Head,2,3,4,1,Defended,Pau Morer,Corner,136.0,0.0,J. Solberg,Corner Won
+469,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,poorchance,poorchance,Valerenga,Open Play,76:16,E. Jaager,-26.0,44.0,Right,1,4,3,0,Missed,H. Stengel,Free Kick,42.0,178.0,-,-
+468,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,poorchance,poorchance,Valerenga,Open Play,71:26,E. Jaager,-25.0,26.0,Head,1,5,2,0,Saved,H. Stengel,Free Kick,66.0,122.0,S. Juklerod,Free Kick Won
+467,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,fairlygoodchance,fairlygoodchance,Valerenga,Open Play,70:13,B. Finne,18.0,90.0,Right,3,3,3,0,Missed,H. Stengel,Open Play Pass,-11.0,126.0,-,-
+466,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,poorchance,poorchance,Sandefjord,Open Play,01:12,F. Kastrati,6.0,86.0,Right,2,2,6,1,Missed,A. Seck,Open Play Pass,-42.0,40.0,J. Solberg,Free Kick
+465,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,poorchance,poorchance,Sandefjord,Open Play,04:29,F. Kastrati,-35.0,90.0,Right,1,2,7,1,Missed,J. Solberg,Free Kick,54.0,127.0,Pau Morer,Free Kick Won
+464,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,poorchance,poorchance,Sandefjord,Open Play,24:11,A. Seck,28.0,48.0,Head,2,4,2,0,Saved,J. Solberg,Free Kick,-83.0,127.0,-,-
+463,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,poorchance,poorchance,Valerenga,Open Play,42:44,M. Abdellaoue,-15.0,51.0,Head,1,3,2,0,Missed,R. Lundström,Cross High,-94.0,115.0,-,-
+462,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,poorchance,poorchance,Valerenga,Open Play,44:18,M. Keita,-35.0,108.0,Right,2,1,2,0,Missed,R. Lundström,Open Play Pass,-101.0,116.0,A. Ibrahim,Open Play Pass
+461,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,poorchance,poorchance,Sandefjord,Open Play,47:15,A. Seck,-20.0,64.0,Head,1,4,2,0,Saved,J. Solberg,Free Kick,86.0,153.0,A. Seck,Free Kick Won
+460,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,verygoodchance,verygoodchance,Valerenga,Open Play,57:12,J. Nation,1.0,23.0,Right,1,2,1,0,Missed,H. Stengel,Free Kick,-105.0,105.0,R. Lundstrom,Free Kick Won
+459,NorEs,2383866,2017-04-09,16:00:00,Valerenga,Sandefjord,fairlygoodchance,fairlygoodchance,Sandefjord,Open Play,64:55,E. Kebbie,-41.0,77.0,Right,4,2,3,0,Woodwork,Pau Morer,Open Play Pass,41.0,83.0,Pau Morer,Turnover
+477,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,goodchance,goodchance,Viking,Open Play,33:57,J. Ryerson,-15.0,58.0,Right,3,3,2,1,Defended,A. Danielsen,Open Play Pass,-18.0,115.0,-,-
+479,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,verygoodchance,verygoodchance,Viking,Open Play,27:45,K. Appiah,17.0,20.0,Head,3,3,2,0,Saved,K. Haugen,Cross High,87.0,43.0,-,-
+480,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,goodchance,goodchance,Sarpsborg 08,Open Play,17:05,P. Mortensen,-23.0,50.0,Head,2,2,3,0,Missed,J. Thomassen,Cross High,117.0,59.0,-,-
+489,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,fairlygoodchance,fairlygoodchance,Viking,Open Play,90:09,A. Danielsen,24.0,78.0,Right,2,3,3,1,Missed,-,-,-,-,-,-
+488,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,poorchance,poorchance,Viking,Open Play,88:49,K. Haugen,46.0,126.0,Left,2,2,2,1,Missed,M. Ledger,Open Play Pass,-31.0,155.0,-,-
+487,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,goodchance,goodchance,Viking,Open Play,87:18,J. Ryerson,28.0,56.0,Head,3,1,3,0,Defended,M. Haukås,Cross High,-93.0,47.0,-,-
+486,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,poorchance,poorchance,Sarpsborg 08,Open Play,83:57,K. Diatta,22.0,116.0,Right,2,1,3,1,Saved,M. Lund Nielsen,Open Play Pass,26.0,129.0,-,-
+485,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,verygoodchance,verygoodchance,Viking,Open Play,82:30,M. Haukas,-28.0,20.0,Left,4,1,2,0,Defended,A. Danielsen,Cross High,54.0,107.0,-,-
+484,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,poorchance,poorchance,Viking,Open Play,75:02,A. Danielsen,-28.0,108.0,Right,3,3,3,0,Defended,P. Pedersen,Open Play Pass,-5.0,105.0,-,-
+483,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,poorchance,poorchance,Viking,Open Play,73:22,P. Pedersen,-12.0,110.0,Right,2,4,3,0,Missed,J. Ryerson,Open Play Pass,18.0,187.0,-,-
+482,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,greatchance,greatchance,Sarpsborg 08,Open Play,72:43,M. Lund Nielsen,-12.0,4.0,Head,1,4,1,0,Missed,J. Lindberg,Corner,132.0,3.0,-,-
+481,NorEs,2383864,2017-04-09,16:00:00,Sarpsborg 08,Viking,poorchance,poorchance,Sarpsborg 08,Open Play,10:18,J. Lindberg,-69.0,84.0,Right,3,4,6,2,Defended,A. Trondsen,Open Play Pass,-66.0,47.0,-,-
+262,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,fairlygoodchance,fairlygoodchance,Aalesund,Open Play,61:48,M. Abdellaoue,-56.0,30.0,Right,2,3,2,0,Missed,B. Riise,Cross Low,-121.0,55.0,M. Abdellaoue,Open Play Pass
+264,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Aalesund,Open Play,68:34,K. Ramsteijn,-26.0,105.0,Right,3,1,3,0,Missed,E. Gyasi,Open Play Pass,-75.0,46.0,V. Hoff,Open Play Pass
+265,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Stromsgodset,Open Play,73:44,K. Tokstad,-26.0,87.0,Right,3,2,3,0,Saved,L. Vilsvik,Open Play Pass,-40.0,64.0,J. Parr,Cross High
+266,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,fairlygoodchance,fairlygoodchance,Stromsgodset,Dangerous Moment,76:31,M. Tagbajumi,26.0,46.0,Right,0,1,1,0,Defended,L. Vilsvik,Cross High,-124.0,117.0,-,-
+267,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,fairlygoodchance,fairlygoodchance,Stromsgodset,Open Play,80:46,J. Glesnes,-12.0,40.0,Right,3,5,5,3,Defended,Bassel Jradi,Corner,-136.0,4.0,T. Hoiland,Corner Won
+268,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Stromsgodset,Open Play,81:16,H. Hauger,35.0,79.0,Left,1,4,6,2,Defended,Bassel Jradi,Corner,-136.0,3.0,J. Glesnes,Corner Won
+269,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Aalesund,Open Play,82:19,V. Berisha,-41.0,78.0,Left,3,2,3,1,Saved,-,-,-,-,-,-
+270,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Aalesund,Open Play,84:58,E. Gyasi,-32.0,105.0,Left,2,0,4,1,Saved,A. Þrándarson,Open Play Pass,58.0,102.0,A. Thrandarson,Dangerous Moment
+271,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,goodchance,goodchance,Stromsgodset,Open Play,86:29,H. Hauger,15.0,60.0,Right,3,0,1,1,Missed,L. Vilsvik,Cross High,-96.0,24.0,T. Hoiland,Open Play Pass
+272,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Stromsgodset,Open Play,88:59,Bassel Jradi,59.0,6.0,Left,3,5,2,0,Saved,M. Tagbajumi,Open Play Pass,52.0,49.0,Bassel Jradi,Open Play Pass
+273,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,fairlygoodchance,fairlygoodchance,Stromsgodset,Open Play,91:32,P. Engblom,18.0,48.0,Left,3,4,3,0,Missed,Bassel Jradi,Open Play Pass,44.0,51.0,M. Tagbajumi,Open Play Pass
+274,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Stromsgodset,Open Play,92:19,M. Tagbajumi,-69.0,70.0,Right,1,1,3,0,Saved,M. Tagbajumi,Dangerous Moment,7.0,88.0,J. Glesnes,Open Play Pass
+275,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,fairlygoodchance,fairlygoodchance,Stromsgodset,Open Play,55:19,T. Nguen,69.0,31.0,Left,2,3,2,1,Saved,T. Nguen,Dangerous Moment,79.0,144.0,-,-
+329,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,fairlygoodchance,fairlygoodchance,Odd,Open Play,20:20,T. Agdestein,-48.0,44.0,Right,1,4,3,0,Missed,M. Broberg,Open Play Pass,-106.0,102.0,-,-
+328,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,poorchance,poorchance,Odd,Direct Free-Kick,18:35,E. Ruud,-55.0,74.0,Right,2,0,6,2,Missed,T. Agdestein,Free Kick Won,-58.0,77.0,-,-
+327,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,poorchance,poorchance,Stabaek,Open Play,16:33,T. Lumanza,40.0,122.0,Right,1,1,4,1,Missed,J. Moe,Open Play Pass,69.0,90.0,-,-
+326,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,fairlygoodchance,fairlygoodchance,Odd,Open Play,14:37,F. Semb Berge,6.0,40.0,Head,3,4,4,0,Saved,F. Nordkvelle,Cross High,-116.0,66.0,-,-
+325,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,poorchance,poorchance,Odd,Open Play,13:56,Riku Riski,-46.0,61.0,Right,2,4,2,0,Defended,M. Broberg,Open Play Pass,43.0,171.0,-,-
+324,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,poorchance,poorchance,Odd,Open Play,10:48,J. Nilsen,17.0,86.0,Left,1,0,3,0,Missed,T. Agdestein,Open Play Pass,-37.0,60.0,-,-
+263,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,fairlygoodchance,fairlygoodchance,Stromsgodset,Open Play,64:10,M. Tagbajumi,21.0,31.0,Head,1,4,2,0,Missed,L. Vilsvik,Cross High,-96.0,91.0,K. Tokstad,Open Play Pass
+261,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,fairlygoodchance,fairlygoodchance,Aalesund,Open Play,55:44,L. Veldwijk,-57.0,61.0,Right,2,0,2,0,Missed,S. Fet,Open Play Pass,-21.0,90.0,-,-
+260,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Stromsgodset,Open Play,54:00,H. Hauger,-53.0,91.0,Right,1,1,4,1,Defended,Bassel Jradi,Open Play Pass,-40.0,45.0,L. Vilsvik,Cross Low
+248,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Stromsgodset,Open Play,46:27,M. Tagbajumi,-63.0,85.0,Right,3,3,3,0,Missed,Bassel Jradi,Dangerous Moment,-70.0,72.0,-,-
+249,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Stromsgodset,Direct Free-Kick,02:21,Bassel Jradi,17.0,73.0,Right,1,0,10,2,Missed,Marcus Pedersen,Free Kick Won,19.0,70.0,-,-
+250,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,goodchance,goodchance,Stromsgodset,Dangerous Moment,16:03,H. Hauger,-59.0,30.0,Right,0,1,1,0,Defended,Bassel Jradi,Open Play Pass,-48.0,72.0,H. Hauger,Open Play Pass
+251,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,verygoodchance,verygoodchance,Aalesund,Open Play,21:16,L. Veldwijk,-21.0,27.0,Left,3,1,1,0,Woodwork,S. Fet,Cross Low,-130.0,73.0,V. Hoff,Open Play Pass
+252,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Stromsgodset,Open Play,22:20,Bassel Jradi,-38.0,79.0,Right,1,0,2,0,Missed,H. Hauger,Open Play Pass,19.0,126.0,-,-
+253,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,goodchance,goodchance,Aalesund,Open Play,23:14,M. Abdellaoue,3.0,103.0,Right,1,0,1,0,Missed,M. Abdellaoue,Turnover,13.0,190.0,-,-
+254,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,fairlygoodchance,fairlygoodchance,Aalesund,Open Play,25:13,L. Veldwijk,-3.0,63.0,Left,1,2,3,0,Saved,M. Abdellaoue,Open Play Pass,-21.0,97.0,-,-
+255,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Stromsgodset,Direct Free-Kick,36:11,Bassel Jradi,45.0,88.0,Right,2,0,7,1,Missed,M. Tagbajumi,Free Kick Won,55.0,93.0,T. Nguen,Open Play Pass
+256,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Aalesund,Open Play,48:21,A. Thrandarson,44.0,102.0,Right,2,2,4,0,Missed,L. Veldwijk,Open Play Pass,14.0,252.0,-,-
+257,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,verygoodchance,verygoodchance,Stromsgodset,Open Play,50:21,Marcus Pedersen,27.0,45.0,Right,3,3,2,0,Saved,T. Nguen,Open Play Pass,52.0,60.0,J. Parr,Open Play Pass
+258,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,poorchance,poorchance,Stromsgodset,Open Play,51:20,K. Tokstad,-35.0,93.0,Right,1,1,4,1,Missed,-,-,-,-,-,-
+259,NorEs,2383867,2017-04-09,18:00:00,Stromsgodset,Aalesund,fairlygoodchance,fairlygoodchance,Aalesund,Open Play,52:45,K. Ramsteijn,23.0,24.0,Head,1,4,3,0,Missed,M. Kirkeskov,Corner,-136.0,4.0,B. Riise,Corner Won
+323,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,poorchance,poorchance,Odd,Open Play,08:11,Riku Riski,17.0,65.0,Right,2,4,3,0,Saved,F. Nordkvelle,Open Play Pass,4.0,86.0,-,-
+322,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,poorchance,poorchance,Stabaek,Open Play,05:54,T. Lumanza,43.0,103.0,Right,3,2,5,3,Saved,-,-,-,-,-,-
+321,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,poorchance,poorchance,Stabaek,Direct Free-Kick,03:19,J. Moe,-31.0,117.0,Left,3,0,4,1,Saved,O. Omoijuanfo,Free Kick Won,-34.0,118.0,-,-
+320,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,greatchance,greatchance,Stabaek,Open Play,01:46,O. Omoijuanfo,16.0,14.0,Left,1,0,1,0,Missed,H. Skogseid,Open Play Pass,-58.0,46.0,-,-
+319,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,poorchance,poorchance,Stabaek,Open Play,77:55,L. Kassi,21.0,121.0,Right,1,1,4,0,Missed,-,-,-,-,-,-
+318,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,poorchance,poorchance,Odd,Direct Free-Kick,81:41,J. Nilsen,-42.0,80.0,Left,2,0,6,5,Missed,-,-,-,-,-,-
+317,NorEs,2383865,2017-04-09,16:00:00,Stabaek,Odd,fairlygoodchance,fairlygoodchance,Stabaek,Open Play,90:58,M. Njie,50.0,54.0,Left,4,3,1,0,Woodwork,-,-,-,-,-,-
+540,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,fairlygoodchance,fairlygoodchance,Tromso,Open Play,83:56,A. Sigurdarson,58.0,50.0,Right,3,2,2,0,Defended,U. Jenssen,Open Play Pass,48.0,146.0,T. Olsen,Open Play Pass
+541,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,fairlygoodchance,fairlygoodchance,Sogndal,Open Play,80:53,L. Kjemhus,-15.0,65.0,Right,2,1,4,1,Defended,-,-,-,-,B. Utvik,Throw in
+542,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,poorchance,poorchance,Sogndal,Open Play,78:52,V. Grodas,48.0,104.0,Left,3,1,3,0,Saved,-,-,-,-,B. Utvik,Throw in
+543,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,poorchance,poorchance,Tromso,Open Play,77:12,J. Johansen,-49.0,73.0,Right,1,3,3,0,Missed,S. Wangberg,Open Play Pass,-56.0,52.0,Morten Pedersen,Free Kick
+544,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,goodchance,goodchance,Tromso,Open Play,71:53,A. Sigurdarson,55.0,34.0,Right,3,2,3,0,Saved,E. Samb,Open Play Pass,20.0,88.0,-,-
+545,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,goodchance,goodchance,Sogndal,Open Play,71:22,B. Bye,32.0,17.0,Left,2,4,1,0,Saved,C. Nwakali,Open Play Pass,38.0,80.0,V. Grodas,Open Play Pass
+546,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,poorchance,poorchance,Tromso,Open Play,64:18,A. Sigurdarson,55.0,95.0,Right,2,2,3,0,Missed,P. Kpozo,Open Play Pass,114.0,84.0,A. Sigurdarson,Shot (Opposition Rebound)
+547,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,verygoodchance,verygoodchance,Tromso,Open Play,55:42,T. Olsen,-46.0,49.0,Right,1,3,1,0,Missed,G. Åsen,Open Play Pass,-18.0,200.0,-,-
+548,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,poorchance,poorchance,Tromso,Open Play,48:26,J. Johansen,-13.0,94.0,Right,3,2,3,0,Saved,-,-,-,-,P. Kpozo,Cross High
+549,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,fairlygoodchance,fairlygoodchance,Tromso,Open Play,41:16,J. Johansen,-53.0,58.0,Right,2,2,2,0,Defended,E. Samb,Open Play Pass,-108.0,74.0,J. Johansen,Open Play Pass
+550,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,fairlygoodchance,fairlygoodchance,Sogndal,Open Play,38:14,S. Brekkhus,65.0,52.0,Left,2,4,2,0,Missed,E. Skaasheim,Open Play Pass,-17.0,78.0,-,-
+551,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,goodchance,goodchance,Tromso,Open Play,30:41,J. Johansen,-14.0,18.0,Head,2,3,1,0,Saved,S. Wangberg,Shot (Woodwork Rebound),12.0,46.0,Morten Pedersen,Corner
+552,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,greatchance,greatchance,Tromso,Dangerous Moment,27:27,G. Asen,14.0,29.0,Left,0,3,2,0,Defended,A. Sigurdarson,Cross Low,113.0,35.0,Morten Pedersen,Open Play Pass
+553,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,fairlygoodchance,fairlygoodchance,Tromso,Open Play,24:02,G. Asen,8.0,58.0,Left,2,4,3,0,Defended,A. Sigurdarson,Open Play Pass,101.0,73.0,P. Kpozo,Open Play Pass
+554,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,goodchance,goodchance,Sogndal,Open Play,05:29,B. Bye,41.0,33.0,Right,1,1,1,0,Missed,G. Koomson,Open Play Pass,-77.0,113.0,B. Utvik,Open Play Pass
+555,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,greatchance,greatchance,Sogndal,Open Play,11:08,C. Psyche,-11.0,12.0,Head,1,1,1,0,Missed,G. Koomson,Corner,136.0,0.0,E. Birkelund,Corner Won
+556,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,greatchance,greatchance,Sogndal,Open Play,13:21,S. Brekkhus,20.0,12.0,Left,2,3,1,0,Saved,B. Bye,Shot (Opposition Rebound),11.0,29.0,G. Koomson,Cross High
+557,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,fairlygoodchance,fairlygoodchance,Tromso,Open Play,19:10,T. Olsen,47.0,58.0,Right,1,3,2,0,Missed,-,-,-,-,P. Kpozo,Open Play Pass
+558,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,poorchance,poorchance,Tromso,Open Play,22:36,Morten Pedersen,15.0,97.0,Left,1,2,3,1,Defended,-,-,-,-,M. Odegaard,Cross High
+559,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,verygoodchance,verygoodchance,Sogndal,Dangerous Moment,74:48,C. Nwakali,20.0,30.0,Left,0,4,1,0,Defended,B. Bye,Open Play Pass,12.0,44.0,C. Nwakali,Dangerous Moment
+560,NorEs,2383863,2017-04-09,16:00:00,Tromso,Sogndal,greatchance,greatchance,Sogndal,Open Play,90:56,B. Bye,18.0,11.0,Head,1,1,2,0,Missed,E. Skaasheim,Corner,-136.0,1.0,C. Nwakali,Corner Won
+289,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,goal,Superb,Rosenborg,Open play,08:28,F. Midtsjo,-8.0,3.0,Head,2,4,0,0,-,M. Jevtović,Shot (Opposition Rebound),21.0,36.0,P. Helland,Open Play Pass
+288,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,goal,Good,Rosenborg,Open play,06:27,M. Jevtovic,43.0,54.0,Right,3,1,2,0,-,V. Hedenstad,Dangerous Moment,-52.0,41.0,P. Helland,Open Play Pass
+6,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,owngoal,Very Good,Molde,-,20:09,N. Bendtner,12.0,5.0,Other,-,-,0,0,-,S. Gregersen,Shot (Woodwork Rebound),21.0,9.0,R. Gabrielsen,Open Play Pass
+1890,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,goodchance,goodchance,Molde,Open Play,91:01,B. Sigurdarson,-16.0,42.0,Head,1,1,1,0,Missed,F. Aursnes,Cross High,-78.0,129.0,P. Strand,Open Play Pass
+1889,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,fairlygoodchance,fairlygoodchance,Rosenborg,Open Play,89:46,M. Jensen,-50.0,56.0,Right,2,3,2,0,Missed,F. Midtsjø,Open Play Pass,-111.0,90.0,M. Jensen,Throw in
+1888,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,goodchance,goodchance,Molde,Open Play,88:13,B. Sigurdarson,50.0,56.0,Right,1,2,3,0,Missed,-,-,-,-,K. Rindaroy,Cross Low
+1875,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,poorchance,poorchance,Rosenborg,Dangerous Moment,66:28,N. Bendtner,26.0,42.0,Head,0,4,2,0,Defended,P. Helland,Cross High,-111.0,46.0,M. Jensen,Open Play Pass
+1876,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,poorchance,poorchance,Molde,Open Play,58:34,F. Aursnes,-4.0,115.0,Left,3,2,0,1,Saved,F. Brustad,Open Play Pass,2.0,85.0,-,-
+1877,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,greatchance,greatchance,Molde,Open Play,57:35,F. Brustad,-26.0,15.0,Head,3,3,2,0,Woodwork,E. Hestad,Cross High,70.0,50.0,S. Svendsen,Open Play Pass
+1878,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,poorchance,poorchance,Rosenborg,Open Play,54:39,M. Jensen,-2.0,100.0,Right,2,3,3,1,Saved,V. Hedenstad,Open Play Pass,-50.0,114.0,-,-
+1879,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,poorchance,poorchance,Molde,Open Play,50:32,F. Aursnes,-74.0,62.0,Right,1,0,2,0,Missed,E. Hestad,Open Play Pass,-47.0,73.0,P. Strand,Open Play Pass
+1880,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,fairlygoodchance,fairlygoodchance,Rosenborg,Open Play,14:48,N. Bendtner,71.0,34.0,Right,3,1,1,0,Saved,M. Jevtović,Open Play Pass,58.0,77.0,M. Jensen,Open Play Pass
+1881,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,greatchance,greatchance,Rosenborg,Open Play,27:46,P. Helland,-38.0,51.0,Left,2,1,1,0,Saved,F. Midtsjø,Open Play Pass,8.0,75.0,-,-
+1882,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,goodchance,goodchance,Rosenborg,Open Play,40:02,M. Jevtovic,33.0,66.0,Right,1,1,4,1,Missed,P. Helland,Open Play Pass,-112.0,178.0,V. Hedenstad,Open Play Pass
+1884,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,fairlygoodchance,fairlygoodchance,Rosenborg,Open Play,45:19,N. Bendtner,6.0,48.0,Right,1,4,2,0,Missed,V. Hedenstad,Cross Low,-119.0,39.0,A. Konradsen,Open Play Pass
+1885,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,fairlygoodchance,fairlygoodchance,Molde,Open Play,46:28,S. Svendsen,5.0,93.0,Left,2,2,2,0,Missed,F. Aursnes,Open Play Pass,-61.0,188.0,F. Brustad,Open Play Pass
+1886,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,goodchance,goodchance,Molde,Open Play,72:26,T. Amang ,13.0,29.0,Head,1,3,2,0,Missed,F. Aursnes,Free Kick,-121.0,75.0,P. Strand,Free Kick Won
+1887,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,fairlygoodchance,fairlygoodchance,Rosenborg,Direct Free-Kick,84:10,P. Helland,-15.0,113.0,Left,3,0,3,1,Saved,M. Jensen,Free Kick Won,-17.0,112.0,P. Helland,Open Play Pass
+1883,NorEs,2383861,2017-04-08,16:00:00,Rosenborg,Molde,fairlygoodchance,fairlygoodchance,Rosenborg,Open Play,41:50,P. Helland,-60.0,52.0,Left,3,2,2,0,Saved,V. Hedenstad,Open Play Pass,-101.0,102.0,A. Konradsen,Open Play Pass
+3206,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,goodchance,goodchance,Tromso,Open Play,18:59,E. Samb,-26.0,19.0,Head,1,5,4,0,Missed,Morten Pedersen,Corner,135.0,2.0,-,-
+3219,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,verygoodchance,verygoodchance,Viking,Open Play,84:12,K. Appiah,12.0,37.0,Right,2,3,2,0,Defended,K. Haugen,Cross Low,98.0,33.0,-,-
+3218,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,poorchance,poorchance,Tromso,Open Play,83:39,M. Odegaard,-62.0,86.0,Right,1,3,2,0,Missed,-,-,-,-,-,-
+3217,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,fairlygoodchance,fairlygoodchance,Tromso,Open Play,80:41,G. Asen,42.0,45.0,Left,2,4,2,0,Saved,M. Andersen,Cross High,-86.0,21.0,-,-
+3216,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,poorchance,poorchance,Viking,Open Play,78:09,A. Danielsen,44.0,85.0,Right,1,5,2,0,Defended,-,-,-,-,-,-
+3198,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,goodchance,goodchance,Viking,Open Play,94:26,K. Appiah,-9.0,54.0,Right,1,2,5,0,Defended,J. Ryerson,Open Play Pass,10.0,41.0,-,-
+3199,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,goodchance,goodchance,Viking,Open Play,92:47,K. Appiah,19.0,51.0,Right,1,2,2,0,Saved,-,-,-,-,-,-
+3200,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,goodchance,goodchance,Viking,Open Play,65:26,J. Ryerson,-37.0,53.0,Right,2,4,3,0,Saved,C. Kronberg,Cross Low,-119.0,59.0,-,-
+3201,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,poorchance,poorchance,Viking,Open Play,64:18,M. Ledger,40.0,42.0,Left,1,3,3,1,Missed,S. Ernemann,Corner,135.0,3.0,-,-
+3202,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,goodchance,goodchance,Tromso,Open Play,62:31,K. Antonsen,44.0,41.0,Left,1,5,2,0,Defended,Morten Pedersen,Open Play Pass,37.0,131.0,-,-
+3203,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,superbchance,superbchance,Viking,Open Play,59:32,R. Shroot,-8.0,12.0,Right,1,1,0,0,Missed,K. Haugen,Cross Low,84.0,51.0,-,-
+3204,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,poorchance,poorchance,Tromso,Direct Free-Kick,09:04,A. Sigurdarson,85.0,81.0,Right,1,0,4,2,Missed,-,-,-,-,-,-
+3205,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,poorchance,poorchance,Viking,Open Play,16:51,J. Ryerson,1.0,98.0,Left,2,3,2,0,Saved,K. Mets,Open Play Pass,73.0,193.0,-,-
+3207,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,poorchance,poorchance,Tromso,Open Play,20:01,C. Landu Landu,24.0,124.0,Right,1,3,2,0,Missed,-,-,-,-,-,-
+3208,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,poorchance,poorchance,Viking,Direct Free-Kick,22:03,A. Danielsen,3.0,89.0,Right,1,0,7,2,Missed,-,-,-,-,-,-
+3209,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,poorchance,poorchance,Viking,Open Play,32:14,S. Michalsen,15.0,103.0,Right,2,3,3,1,Saved,K. Haugen,Open Play Pass,51.0,95.0,-,-
+3210,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,fairlygoodchance,fairlygoodchance,Viking,Open Play,36:54,M. Bringaker,56.0,32.0,Left,1,3,2,0,Missed,A. Danielsen,Open Play Pass,50.0,104.0,-,-
+3211,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,poorchance,poorchance,Tromso,Open Play,40:48,T. Olsen,9.0,103.0,Right,1,3,2,0,Saved,A. Sigurdarson,Open Play Pass,67.0,51.0,-,-
+3212,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,fairlygoodchance,fairlygoodchance,Viking,Direct Free-Kick,43:37,A. Danielsen,4.0,99.0,Right,1,0,5,0,Woodwork,-,-,-,-,-,-
+3213,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,verygoodchance,verygoodchance,Tromso,Open Play,47:23,M. Andersen,3.0,53.0,Left,2,2,3,0,Defended,A. Sigurdarson,Cross Low,110.0,11.0,T. Olsen,Open Play Pass
+3214,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,verygoodchance,verygoodchance,Tromso,Open Play,49:19,A. Sigurdarson,12.0,34.0,Right,1,5,2,0,Defended,E. Samb,Open Play Pass,33.0,135.0,-,-
+3215,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,poorchance,poorchance,Viking,Open Play,70:46,S. Ernemann,13.0,124.0,Left,1,4,4,2,Missed,-,-,-,-,-,-
+3196,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,verygoodchance,verygoodchance,Haugesund,Open Play,78:03,S. Ibrahim,6.0,51.0,Left,2,1,1,0,Saved,F. Kiss,Open Play Pass,46.0,95.0,-,-
+3197,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,fairlygoodchance,fairlygoodchance,Valerenga,Direct Free-Kick,85:04,M. Keita,80.0,82.0,Right,2,0,3,0,Missed,-,-,-,-,-,-
+3195,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,poorchance,poorchance,Haugesund,Open Play,71:46,F. Kiss,-49.0,80.0,Right,1,1,4,1,Missed,-,-,-,-,-,-
+3194,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,goodchance,goodchance,Valerenga,Open Play,66:14,H. Johansen,-2.0,31.0,Head,3,3,4,2,Saved,H. Stengel,Corner,136.0,2.0,-,-
+3184,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,poorchance,poorchance,Valerenga,Open Play,07:44,S. Juklerod,-30.0,97.0,Left,3,1,4,0,Saved,G. Zahid,Open Play Pass,-112.0,83.0,-,-
+3176,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,poorchance,poorchance,Brann,Open Play,04:20,G. Sorensen,49.0,103.0,Right,3,4,3,0,Saved,A. Nouri,Open Play Pass,-112.0,106.0,-,-
+3177,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,poorchance,poorchance,Stromsgodset,Open Play,57:05,J. Parr,19.0,50.0,Right,1,2,3,1,Missed,H. Hauger,Shot (Deflection),-11.0,94.0,-,-
+3178,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,poorchance,poorchance,Brann,Open Play,80:51,F. Haugen,-5.0,91.0,Right,2,4,2,0,Saved,-,-,-,-,-,-
+3179,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,goodchance,goodchance,Brann,Open Play,82:08,S. Skalevik ,26.0,42.0,Head,2,3,2,0,Missed,F. Haugen,Cross High,95.0,49.0,-,-
+3180,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,goodchance,goodchance,Stromsgodset,Open Play,86:37,P. Engblom,-15.0,30.0,Left,2,3,2,0,Saved,K. Tokstad,Cross Low,-102.0,34.0,-,-
+3181,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,poorchance,poorchance,Stromsgodset,Open Play,88:16,J. Glesnes,-45.0,107.0,Right,1,2,4,1,Missed,-,-,-,-,-,-
+3182,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,fairlygoodchance,fairlygoodchance,Brann,Open Play,90:17,S. Nilsen,28.0,97.0,Right,3,1,4,2,Missed,G. Sørensen,Open Play Pass,75.0,80.0,-,-
+3183,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,goodchance,goodchance,Haugesund,Open Play,05:03,V. Skjerve,-31.0,31.0,Head,1,0,5,1,Missed,F. Gytkjær,Corner,136.0,1.0,-,-
+3185,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,verygoodchance,verygoodchance,Valerenga,Open Play,13:30,H. Johansen,-11.0,28.0,Right,1,2,3,0,Missed,A. Ibrahim,Cross Low,-61.0,20.0,S. Juklerod,Open Play Pass
+3186,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,fairlygoodchance,fairlygoodchance,Valerenga,Open Play,17:31,S. Juklerod,-52.0,21.0,Right,1,0,4,1,Missed,-,-,-,-,-,-
+3187,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,poorchance,poorchance,Haugesund,Open Play,19:27,E. Maeland,10.0,53.0,Head,1,1,5,2,Defended,F. Gytkjær,Open Play Pass,13.0,81.0,-,-
+3188,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,fairlygoodchance,fairlygoodchance,Haugesund,Dangerous Moment,21:32,E. Huseklepp,-3.0,27.0,Right,0,1,1,0,Missed,S. Ibrahim,Cross Low,-88.0,44.0,-,-
+3189,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,verygoodchance,verygoodchance,Haugesund,Open Play,27:32,S. Ibrahim,23.0,55.0,Left,3,1,2,0,Saved,-,-,-,-,-,-
+3190,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,goodchance,goodchance,Valerenga,Open Play,28:50,H. Johansen,21.0,37.0,Head,1,2,3,0,Missed,J. Nation,Open Play Pass,-39.0,140.0,-,-
+3191,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,fairlygoodchance,fairlygoodchance,Haugesund,Direct Free-Kick,40:10,H. Hajradinovic,24.0,98.0,Left,1,0,5,2,Missed,-,-,-,-,-,-
+3192,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,fairlygoodchance,fairlygoodchance,Valerenga,Open Play,41:39,S. Juklerod,-20.0,55.0,Left,3,2,2,0,Saved,G. Zahid,Open Play Pass,7.0,181.0,-,-
+3193,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,fairlygoodchance,fairlygoodchance,Haugesund,Dangerous Moment,48:47,E. Huseklepp,36.0,32.0,Left,0,1,1,0,Missed,F. Gytkjær,Cross Low,-61.0,75.0,-,-
+3175,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,poorchance,poorchance,Brann,Open Play,04:54,R. Kristiansen,47.0,93.0,Left,1,1,3,3,Missed,-,-,-,-,-,-
+3174,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,fairlygoodchance,fairlygoodchance,Brann,Open Play,13:36,T. Borven,-59.0,41.0,Right,2,3,2,0,Defended,F. Haugen,Open Play Pass,-38.0,142.0,-,-
+3173,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,greatchance,greatchance,Brann,Open Play,14:08,B. Acosta,10.0,10.0,Left,1,2,1,0,Missed,S. Nilsen,Cross High,-118.0,62.0,-,-
+3172,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,poorchance,poorchance,Brann,Open Play,30:55,T. Borven,-62.0,53.0,Left,2,3,2,0,Saved,A. Nouri,Open Play Pass,-108.0,94.0,-,-
+3166,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,fairlygoodchance,fairlygoodchance,Brann,Open Play,75:51,F. Haugen,-19.0,99.0,Right,2,1,2,1,Defended,A. Nouri,Open Play Pass,-102.0,100.0,-,-
+3167,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,poorchance,poorchance,Stromsgodset,Open Play,67:46,Marcus Pedersen,15.0,76.0,Right,1,4,3,0,Saved,Bassel Jradi,Open Play Pass,48.0,78.0,-,-
+3168,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,fairlygoodchance,fairlygoodchance,Brann,Open Play,66:24,K. Barmen,8.0,69.0,Left,1,3,5,1,Defended,J. Orlov,Open Play Pass,-2.0,49.0,-,-
+3169,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,fairlygoodchance,fairlygoodchance,Brann,Open Play,48:28,T. Borven,31.0,49.0,Head,1,4,3,1,Missed,R. Kristiansen,Cross High,117.0,75.0,-,-
+3170,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,goodchance,goodchance,Brann,Open Play,47:12,T. Borven,27.0,14.0,Head,1,4,2,1,Missed,S. Nilsen,Corner,134.0,3.0,F. Haugen,Corner Won
+3171,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,goodchance,goodchance,Brann,Open Play,45:07,D. Vega,-19.0,52.0,Left,1,2,3,0,Missed,K. Barmen,Open Play Pass,-9.0,127.0,-,-
+480,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,goal,Superb,Brann,Open play,08:09,K. Barmen,9.0,3.0,Right,3,4,0,0,-,T. Børven,Dangerous Moment,-2.0,17.0,S. Nilsen,Open Play Pass
+488,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,goal,Good,Tromso,Open play,89:41,G. Asen,48.0,21.0,Left,4,3,1,0,-,-,-,-,-,-,-
+487,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,goal,Superb,Viking,Open play,57:03,J. Ryerson,2.0,18.0,Head,3,1,0,0,-,C. Kronberg,Cross High,-112.0,11.0,-,-
+485,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,goal,Very Good,Valerenga,Open play,79:14,M. Grodem,15.0,34.0,Head,4,2,3,1,-,R. Lundström,Cross High,-80.0,29.0,-,-
+484,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,goal,Great,Valerenga,Open play,69:57,M. Keita,-9.0,17.0,Right,3,0,2,0,-,H. Johansen,Shot (Deflection),11.0,23.0,A. Ibrahim,Shot (Opposition Rebound)
+483,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,goal,Great,Haugesund,Open play,46:38,S. Ibrahim,15.0,13.0,Left,3,0,1,0,-,-,-,-,-,-,-
+482,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,goal,Great,Haugesund,Open play,35:52,S. Ibrahim,20.0,30.0,Left,3,1,1,0,-,E. Huseklepp,Open Play Pass,63.0,86.0,-,-
+481,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,goal,Fairly Good,Haugesund,Open play,14:39,F. Gytkjaer,13.0,63.0,Right,3,0,5,1,-,A. Stølås,Throw in,135.0,79.0,-,-
+479,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,goal,Very Good,Brann,Open play,76:21,J. Orlov,17.0,27.0,Head,4,4,2,0,-,F. Haugen,Cross High,112.0,37.0,S. Skalevik ,Open Play Pass
+13,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,owngoal,Fairly Good,Valerenga,-,37:42,V. Skjerve,13.0,34.0,Head,-,-,4,2,-,S. Juklerød,Free Kick,107.0,126.0,-,-
+12,NorEs,2383860,2017-04-06,17:00:00,Brann,Stromsgodset,owngoal,Fairly Good,Brann,-,71:17,L. Vilsvik,4.0,29.0,Left,-,-,0,0,-,J. Orlov,Cross Low,-103.0,40.0,-,-
+486,NorEs,2383859,2017-04-06,17:00:00,Haugesund,Valerenga,goal,Poor,Haugesund,Open play,89:04,F. Gytkjaer,-28.0,81.0,Right,3,3,2,0,-,S. Ibrahim,Open Play Pass,-36.0,129.0,P. Bratveit,Open Play Pass
+14,NorEs,2383854,2017-04-06,17:00:00,Viking,Tromso,owngoal,Great,Tromso,-,05:25,M. Ledger,1.0,17.0,Left,-,-,0,0,-,M. Andersen,Cross Low,-56.0,9.0,-,-
+586,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,goal,Great,Sarpsborg 08,Open play,45:55,J. Jorgensen,-12.0,5.0,Head,1,5,4,0,-,A. Trondsen,Corner,-136.0,3.0,P. Mortensen,Corner Won
+585,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,goal,Great,Sarpsborg 08,Open play,20:36,P. Mortensen,10.0,27.0,Right,2,3,2,0,-,A. Trondsen,Cross Low,108.0,52.0,-,-
+584,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,goal,Fairly Good,Aalesund,Open play,18:06,F. Carlsen,-17.0,75.0,Right,4,0,5,3,-,E. Gyasi,Open Play Pass,-69.0,43.0,M. Abdellaoue,Open Play Pass
+583,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,goal,Very Good,Sarpsborg 08,Open play,08:12,P. Mortensen,-27.0,16.0,Head,3,1,2,0,-,A. Trondsen,Cross High,76.0,38.0,J. Lindberg,Open Play Pass
+579,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,goal,Fairly Good,Molde,Open play,92:19,S. Gregersen,-24.0,59.0,Right,4,2,6,1,-,P. Strand,Cross High,-98.0,46.0,-,-
+578,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,goal,Fairly Good,Lillestrom,Open play,46:22,I. Mathew,20.0,85.0,Right,4,2,4,1,-,S. Udodji,Open Play Pass,22.0,48.0,-,-
+577,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,goal,Very Good,Molde,Open play,29:04,S. Svendsen,49.0,35.0,Left,4,2,2,0,-,O. Karlsson,Open Play Pass,-27.0,159.0,-,-
+576,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,goal,Great,Rosenborg,Open play,49:20,M. Vilhjalmsson,-4.0,23.0,Head,3,0,2,0,-,F. Midtsjø,Open Play Pass,-39.0,12.0,M. Jensen,Open Play Pass
+575,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,goal,Superb,Rosenborg,Open play,73:28,N. Bendtner,6.0,12.0,Right,3,4,0,0,-,M. Jevtović,Cross Low,78.0,17.0,V. Hedenstad,Free Kick
+574,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,goal,Good,Rosenborg,Open play,84:42,P. Helland,-25.0,44.0,Left,4,4,3,0,-,V. Hedenstad,Open Play Pass,-93.0,17.0,M. Jensen,Open Play Pass
+572,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,goal,Good,Odd,Open play,59:09,T. Grogaard,38.0,58.0,Left,4,0,2,0,-,R. Zekhnini,Open Play Pass,68.0,12.0,Riku Riski,Open Play Pass
+59,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,penawarded,Good,Sogndal,Push,73:09,-,-,-,-,N/A,-,-,-,Penalty Awarded,-,-,-,-,-,-
+15,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,owngoal,Great,Sogndal,-,18:07,M. Sayouba,10.0,3.0,Right,-,-,3,0,-,O. Sveen,Dangerous Moment,10.0,7.0,M. Ramsland,Open Play Pass
+573,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,goal,Great,Odd,Open play,21:18,O. Occean,-16.0,17.0,Head,2,0,0,0,-,F. Semb Berge,Open Play Pass,-24.0,16.0,E. Ruud,Cross High
+571,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,goal,Penalty,Sogndal,Penalty,74:00,G. Koomson,0.0,44.0,Right,5,0,1,0,-,B. Utvik,Penalty Earned,1.0,55.0,-,-
+570,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,goal,Great,Sogndal,Open play,45:36,B. Bye,12.0,13.0,Head,3,2,2,0,-,B. Utvik,Open Play Pass,-26.0,57.0,E. Skaasheim,Corner
+569,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,goal,Great,Sogndal,Open play,54:50,B. Bye,24.0,14.0,Left,3,2,1,0,-,E. Birkelund,Open Play Pass,-34.0,27.0,T. Teniste,Throw in
+568,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,goal,Good,Stabaek,Open play,69:05,A. Nimely,-50.0,35.0,Head,4,3,2,0,-,L. Kassi,Cross High,-131.0,88.0,-,-
+3901,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,verygoodchance,verygoodchance,Sarpsborg 08,Open Play,45:15,T. Heintz,-43.0,38.0,Right,3,4,1,0,Saved,-,-,-,-,-,-
+3892,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,fairlygoodchance,fairlygoodchance,Aalesund,Open Play,73:34,M. Abdellaoue,10.0,31.0,Head,3,3,1,0,Saved,B. Riise,Cross High,131.0,92.0,O. Lie,Open Play Pass
+3893,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,verygoodchance,verygoodchance,Aalesund,Open Play,66:00,O. Lie,-19.0,17.0,Head,3,5,4,1,Saved,F. Carlsen,Corner,134.0,4.0,M. Kirkeskov,Corner Won
+3894,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,poorchance,poorchance,Aalesund,Direct Free-Kick,65:34,M. Kirkeskov,-9.0,115.0,Left,3,0,5,1,Defended,E. Gyasi,Free Kick Won,-14.0,112.0,-,-
+3895,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,greatchance,greatchance,Sarpsborg 08,Open Play,60:11,J. Lindberg,-11.0,33.0,Head,3,0,1,0,Saved,O. Halvorsen,Cross High,-102.0,56.0,M. Lund Nielsen,Open Play Pass
+3896,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,poorchance,poorchance,Aalesund,Open Play,23:43,O. Lie,61.0,40.0,Left,3,2,5,2,Missed,-,-,-,-,-,-
+3897,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,fairlygoodchance,fairlygoodchance,Sarpsborg 08,Open Play,02:33,J. Lindberg,6.0,30.0,Head,2,5,4,0,Missed,A. Albech,Cross High,-69.0,44.0,J. Jorgensen,Open Play Pass
+3898,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,greatchance,greatchance,Aalesund,Open Play,03:53,S. Fet,-2.0,30.0,Right,3,0,1,0,Saved,M. Kirkeskov,Cross Low,112.0,49.0,-,-
+3899,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,goodchance,goodchance,Aalesund,Open Play,15:19,A. Thrandarson,13.0,31.0,Head,3,5,3,0,Saved,A. Arnarson  ,Cross High,-99.0,99.0,E. Gyasi,Throw in
+3779,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,verygoodchance,verygoodchance,Sogndal,Open Play,86:20,B. Bye,42.0,39.0,Left,2,1,1,0,Missed,G. Koomson,Cross High,-32.0,115.0,-,-
+3900,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,greatchance,greatchance,Sarpsborg 08,Open Play,40:05,J. Lindberg,29.0,48.0,Right,3,0,1,0,Missed,S. Rosted,Open Play Pass,81.0,231.0,A. Trondsen,Open Play Pass
+3902,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,fairlygoodchance,fairlygoodchance,Sarpsborg 08,Open Play,48:17,K. Zachariassen,-2.0,62.0,Right,1,5,4,1,Missed,O. Halvorsen,Open Play Pass,-67.0,46.0,M. Lund Nielsen,Open Play Pass
+3903,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,fairlygoodchance,fairlygoodchance,Aalesund,Open Play,51:30,F. Carlsen,-11.0,67.0,Right,3,0,4,1,Defended,-,-,-,-,-,-
+3904,NorEs,2383853,2017-04-05,17:00:00,Aalesund,Sarpsborg 08,fairlygoodchance,fairlygoodchance,Aalesund,Open Play,80:57,M. Kirkeskov,46.0,75.0,Left,3,1,2,0,Defended,L. Veldwijk,Open Play Pass,-40.0,69.0,F. Carlsen,Open Play Pass
+3818,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,fairlygoodchance,fairlygoodchance,Odd,Open Play,19:53,Riku Riski,47.0,77.0,Right,2,2,3,1,Defended,T. Grøgaard,Throw in,136.0,104.0,-,-
+3800,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,fairlygoodchance,fairlygoodchance,Sogndal,Open Play,06:33,G. Koomson,-14.0,87.0,Right,3,2,3,0,Saved,-,-,-,-,-,-
+3801,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,verygoodchance,verygoodchance,Stabaek,Open Play,09:50,T. Brochmann,32.0,13.0,Right,3,3,1,0,Saved,E. Ba,Open Play Pass,22.0,58.0,-,-
+3802,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,11:16,T. Lumanza,87.0,87.0,Right,3,3,4,0,Defended,-,-,-,-,-,-
+3803,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Direct Free-Kick,12:24,O. Omoijuanfo,59.0,106.0,Right,3,1,5,1,Saved,H. Vetlesen,Free Kick Won,64.0,99.0,-,-
+3804,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,goodchance,goodchance,Stabaek,Open Play,57:17,L. Kassi,-6.0,54.0,Right,3,2,9,3,Missed,H. Skogseid,Open Play Pass,-25.0,42.0,-,-
+3805,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,57:56,L. Kassi,-11.0,84.0,Right,2,3,5,3,Missed,O. Omoijuanfo,Cross High,73.0,37.0,-,-
+3806,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,fairlygoodchance,fairlygoodchance,Stabaek,Open Play,62:51,T. Brochmann,-18.0,99.0,Right,4,2,3,0,Saved,T. Lumanza,Open Play Pass,19.0,121.0,-,-
+3807,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,63:19,L. Kassi,-47.0,76.0,Left,3,3,7,4,Defended,J. Moe,Corner,136.0,1.0,-,-
+3808,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,goodchance,goodchance,Stabaek,Open Play,65:56,M. Njie,53.0,45.0,Left,2,2,4,0,Missed,O. Omoijuanfo,Open Play Pass,-11.0,33.0,-,-
+3809,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,88:01,L. Kassi,-14.0,105.0,Right,2,3,5,1,Missed,H. Skogseid,Open Play Pass,-71.0,157.0,-,-
+3810,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,verygoodchance,verygoodchance,Sogndal,Open Play,90:41,B. Bye,-27.0,55.0,Left,3,3,2,0,Defended,E. Schulze,Open Play Pass,-20.0,234.0,-,-
+3811,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,fairlygoodchance,fairlygoodchance,Odd,Open Play,62:26,O. Occean,-10.0,52.0,Left,1,4,3,0,Missed,T. Grøgaard,Cross High,112.0,27.0,-,-
+3812,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,fairlygoodchance,fairlygoodchance,Kristiansund,Open Play,56:46,B. Stokke,10.0,99.0,Left,4,0,1,1,Saved,K. Qaka,Open Play Pass,-70.0,98.0,-,-
+3813,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,fairlygoodchance,fairlygoodchance,Odd,Open Play,54:17,P. Diouf,-34.0,10.0,Right,1,4,5,2,Missed,E. Ruud,Corner,136.0,0.0,-,-
+3814,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,poorchance,poorchance,Kristiansund,Open Play,50:21,A. Coly,-58.0,104.0,Right,2,0,2,0,Saved,-,-,-,-,-,-
+3815,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,fairlygoodchance,fairlygoodchance,Kristiansund,Open Play,08:00,K. Qaka,-21.0,88.0,Left,1,0,2,0,Missed,-,-,-,-,-,-
+3816,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,poorchance,poorchance,Kristiansund,Direct Free-Kick,17:19,A. Coly,5.0,115.0,Right,2,0,2,0,Missed,S. Sørli,Free Kick Won,20.0,102.0,-,-
+3799,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Direct Free-Kick,25:33,J. Moe,-18.0,79.0,Left,2,1,8,1,Missed,O. Omoijuanfo,Free Kick Won,-23.0,79.0,-,-
+3798,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,27:17,T. Lumanza,33.0,115.0,Left,2,2,3,0,Missed,E. Ba,Open Play Pass,-56.0,129.0,-,-
+3797,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,29:54,J. Moe,50.0,106.0,Left,2,3,5,2,Missed,-,-,-,-,-,-
+3787,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,53:01,O. Omoijuanfo,-29.0,105.0,Right,3,3,4,1,Defended,T. Brochmann,Open Play Pass,15.0,126.0,-,-
+3780,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,goodchance,goodchance,Stabaek,Open Play,84:54,A. Nimely,30.0,46.0,Head,2,4,2,0,Missed,J. Moe,Cross High,123.0,115.0,-,-
+3781,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,82:27,T. Brochmann,14.0,91.0,Left,3,3,5,1,Saved,A. Nimely,Open Play Pass,31.0,58.0,-,-
+3782,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,fairlygoodchance,fairlygoodchance,Stabaek,Open Play,79:55,M. Skjonsberg,-14.0,79.0,Left,3,3,2,0,Saved,O. Omoijuanfo,Open Play Pass,19.0,102.0,J. Moe,Cross Low
+3783,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,goodchance,goodchance,Sogndal,Open Play,79:18,B. Bye,-77.0,55.0,Right,2,1,1,0,Missed,M. Ramsland,Open Play Pass,-55.0,135.0,-,-
+3784,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,fairlygoodchance,fairlygoodchance,Stabaek,Open Play,77:29,J. Moe,44.0,60.0,Left,3,3,2,1,Saved,H. Skogseid,Cross High,-124.0,52.0,-,-
+3785,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,68:39,E. Ba,-18.0,105.0,Right,3,2,5,1,Defended,A. Nimely,Open Play Pass,63.0,115.0,-,-
+3786,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,53:40,E. Ba,-6.0,132.0,Right,2,1,7,2,Missed,J. Moe,Corner,136.0,1.0,O. Omoijuanfo,Corner Won
+3788,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Sogndal,Open Play,50:12,B. Utvik,-11.0,64.0,Right,2,2,5,3,Missed,-,-,-,-,-,-
+3796,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,goodchance,goodchance,Sogndal,Open Play,33:14,G. Koomson,-57.0,55.0,Right,3,1,6,3,Defended,T. Teniste,Throw in,-136.0,78.0,-,-
+3789,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Sogndal,Open Play,49:39,B. Bye,-29.0,117.0,Right,4,2,2,0,Saved,G. Koomson,Open Play Pass,-31.0,157.0,-,-
+3790,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,verygoodchance,verygoodchance,Sogndal,Open Play,48:56,B. Utvik,11.0,28.0,Right,3,4,2,0,Woodwork,G. Koomson,Free Kick,-107.0,61.0,-,-
+3791,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,49:45,H. Vetlesen,54.0,91.0,Right,3,4,4,1,Defended,J. Moe,Turnover,97.0,87.0,-,-
+3792,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,goodchance,goodchance,Sogndal,Open Play,44:23,M. Ramsland,33.0,58.0,Right,2,4,3,1,Missed,G. Koomson,Corner,136.0,4.0,-,-
+3793,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,poorchance,poorchance,Stabaek,Open Play,41:06,E. Ba,-32.0,114.0,Right,2,2,3,2,Missed,-,-,-,-,-,-
+3794,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,verygoodchance,verygoodchance,Stabaek,Open Play,34:06,O. Omoijuanfo,-44.0,37.0,Right,3,4,1,0,Defended,H. Vetlesen,Open Play Pass,25.0,291.0,-,-
+3795,NorEs,2383855,2017-04-05,17:00:00,Sogndal,Stabaek,verygoodchance,verygoodchance,Sogndal,Open Play,33:55,B. Bye,-30.0,28.0,Right,3,4,2,0,Defended,G. Koomson,Cross Low,-124.0,25.0,-,-
+3817,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,goodchance,goodchance,Odd,Open Play,18:23,O. Occean,15.0,37.0,Right,2,4,3,0,Defended,-,-,-,-,-,-
+3819,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,goodchance,goodchance,Odd,Open Play,20:50,Riku Riski,29.0,35.0,Left,2,4,3,1,Defended,O. Occéan,Open Play Pass,2.0,84.0,-,-
+3858,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,poorchance,poorchance,Molde,Open Play,91:45,P. Strand,-64.0,81.0,Right,2,3,5,1,Defended,-,-,-,-,-,-
+3820,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,poorchance,poorchance,Odd,Open Play,22:25,F. Nordkvelle,7.0,102.0,Right,1,3,3,1,Missed,Riku Riski,Open Play Pass,80.0,92.0,F. Nordkvelle,Open Play Pass
+3841,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,greatchance,greatchance,Rosenborg,Open Play,89:35,M. Vilhjalmsson,-10.0,30.0,Right,1,4,1,0,Missed,N. Bendtner,Cross High,-117.0,96.0,A. Konradsen,Open Play Pass
+3842,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,poorchance,poorchance,Lillestrom,Open Play,61:44,I. Mathew,20.0,85.0,Right,2,2,7,1,Missed,S. Rafn,Open Play Pass,41.0,58.0,-,-
+3843,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,poorchance,poorchance,Lillestrom,Open Play,59:09,M. Haakenstad,58.0,85.0,Right,2,1,7,2,Saved,-,-,-,-,-,-
+3844,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,goodchance,goodchance,Lillestrom,Open Play,01:16,S. Udodji,-27.0,52.0,Right,3,3,3,0,Defended,E. Knudtzon,Open Play Pass,-59.0,49.0,S. Rafn,Cross High
+3845,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,verygoodchance,verygoodchance,Lillestrom,Open Play,08:35,E. Knudtzon,-46.0,27.0,Right,2,4,2,0,Saved,S. Udodji,Open Play Pass,-34.0,110.0,-,-
+3846,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,poorchance,poorchance,Lillestrom,Open Play,16:29,F. Krogstad,-75.0,90.0,Right,2,2,3,0,Saved,S. Udodji,Open Play Pass,-84.0,69.0,-,-
+3847,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,poorchance,poorchance,Molde,Open Play,19:16,S. Svendsen,15.0,91.0,Right,1,3,3,0,Missed,O. Karlsson,Open Play Pass,-2.0,211.0,-,-
+3848,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,poorchance,poorchance,Lillestrom,Open Play,24:42,I. Mathew,31.0,84.0,Right,3,3,3,0,Saved,S. Rafn,Open Play Pass,101.0,77.0,-,-
+3849,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,fairlygoodchance,fairlygoodchance,Molde,Open Play,33:35,S. Svendsen,14.0,63.0,Right,3,4,4,1,Missed,B. Sarr,Open Play Pass,119.0,87.0,-,-
+3850,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,poorchance,poorchance,Lillestrom,Open Play,36:51,F. Krogstad,6.0,94.0,Left,1,2,4,1,Missed,-,-,-,-,-,-
+3851,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,goodchance,goodchance,Lillestrom,Direct Corner,43:58,S. Mikalsen,7.0,23.0,Head,1,4,5,2,Missed,S. Rafn,Corner,-136.0,4.0,-,-
+3852,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,poorchance,poorchance,Lillestrom,Open Play,50:14,S. Rafn,89.0,63.0,Right,4,2,2,0,Saved,I. Mathew,Open Play Pass,76.0,74.0,-,-
+3853,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,poorchance,poorchance,Lillestrom,Open Play,53:22,I. Mathew,58.0,82.0,Left,1,3,6,1,Missed,-,-,-,-,-,-
+3854,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,poorchance,poorchance,Molde,Open Play,77:48,C. Remmer,-21.0,110.0,Right,3,1,5,3,Saved,-,-,-,-,-,-
+3855,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,fairlygoodchance,fairlygoodchance,Lillestrom,Open Play,82:45,F. Krogstad,-17.0,78.0,Right,3,1,3,0,Missed,E. Knudtzon,Open Play Pass,-30.0,93.0,-,-
+3856,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,goodchance,goodchance,Lillestrom,Open Play,85:39,T. Malec,-35.0,22.0,Left,2,4,4,0,Missed,A. Melgalvis,Throw in,-136.0,49.0,-,-
+3857,NorEs,2383857,2017-04-05,17:00:00,Molde,Lillestrom,poorchance,poorchance,Lillestrom,Open Play,86:41,I. Mathew,57.0,83.0,Right,2,1,7,2,Missed,F. Krogstad,Corner,131.0,6.0,-,-
+3840,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,poorchance,poorchance,Rosenborg,Open Play,63:31,M. Jensen,44.0,115.0,Right,1,3,2,1,Defended,T. Reginiussen,Open Play Pass,-30.0,201.0,-,-
+3839,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,verygoodchance,verygoodchance,Rosenborg,Open Play,44:04,M. Bakenga,23.0,28.0,Left,1,3,4,1,Missed,F. Midtsjø,Open Play Pass,60.0,7.0,M. Vilhjalmsson,Open Play Pass
+3838,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,goodchance,goodchance,Rosenborg,Dangerous Moment,39:04,T. Reginiussen,-11.0,13.0,Right,0,3,1,1,Missed,A. Konradsen,Corner,136.0,1.0,M. Bakenga,Corner Won
+3828,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,poorchance,poorchance,Rosenborg,Open Play,75:19,A. Konradsen,3.0,62.0,Right,2,4,7,3,Defended,M. Vilhjálmsson,Open Play Pass,18.0,32.0,P. Helland,Shot (Opposition Rebound)
+3821,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,greatchance,greatchance,Odd,Open Play,32:33,Riku Riski,15.0,33.0,Left,1,2,1,0,Missed,O. Occéan,Open Play Pass,-21.0,57.0,E. Ruud,Cross Low
+3822,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,fairlygoodchance,fairlygoodchance,Odd,Open Play,36:16,E. Ruud,71.0,49.0,Right,4,0,3,0,Saved,-,-,-,-,-,-
+3823,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,fairlygoodchance,fairlygoodchance,Kristiansund,Open Play,46:29,S. Sorli,65.0,72.0,Left,1,0,2,0,Missed,H. Gjesdal,Open Play Pass,125.0,301.0,-,-
+3824,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,goodchance,goodchance,Kristiansund,Open Play,72:59,B. Stokke,-17.0,40.0,Head,1,4,2,0,Missed,S. Sørli,Cross High,-120.0,30.0,J. Ronningen,Open Play Pass
+3825,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,fairlygoodchance,fairlygoodchance,Kristiansund,Open Play,76:54,A. Coly,-65.0,54.0,Right,2,0,4,1,Defended,B. Stokke,Open Play Pass,-67.0,9.0,L. Kalludra,Open Play Pass
+3826,NorEs,2383856,2017-04-05,17:00:00,Odd,Kristiansund,goodchance,goodchance,Odd,Open Play,77:09,O. Occean,25.0,17.0,Head,1,4,3,2,Missed,T. Grøgaard,Corner,-136.0,2.0,-,-
+3827,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,poorchance,poorchance,Sandefjord,Open Play,80:01,H. Storbaek,-16.0,102.0,Right,1,0,2,0,Missed,W. Kurtovic,Turnover,-12.0,158.0,-,-
+3829,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,greatchance,greatchance,Rosenborg,Open Play,60:07,A. Konradsen,6.0,13.0,Head,1,5,1,0,Missed,V. Hedenstad,Corner,136.0,1.0,A. Gersbach,Corner Won
+3837,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,fairlygoodchance,fairlygoodchance,Rosenborg,Open Play,35:03,M. Jensen,-28.0,58.0,Right,1,3,2,0,Defended,F. Midtsjø,Open Play Pass,29.0,99.0,A. Konradsen,Open Play Pass
+3830,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,verygoodchance,verygoodchance,Rosenborg,Open Play,48:31,A. Konradsen,3.0,26.0,Head,1,4,2,0,Missed,V. Hedenstad,Free Kick,-118.0,96.0,M. Jensen,Free Kick Won
+3831,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,fairlygoodchance,fairlygoodchance,Sandefjord,Open Play,06:53,H. Storbaek,28.0,81.0,Left,1,2,2,0,Missed,F. Kastrati,Open Play Pass,12.0,113.0,-,-
+3832,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,fairlygoodchance,fairlygoodchance,Rosenborg,Open Play,05:52,E. Rashani,54.0,35.0,Left,2,2,3,0,Defended,T. Reginiussen,Open Play Pass,-40.0,228.0,-,-
+3833,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,poorchance,poorchance,Sandefjord,Direct Free-Kick,04:25,Pau Morer,56.0,90.0,Right,1,0,3,0,Missed,Pau Morer,Free Kick Won,58.0,97.0,Pau Morer,Turnover
+3834,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,verygoodchance,verygoodchance,Rosenborg,Open Play,02:24,M. Bakenga,-37.0,45.0,Right,3,2,2,0,Woodwork,F. Midtsjø,Open Play Pass,-101.0,48.0,M. Bakenga,Turnover
+3835,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,fairlygoodchance,fairlygoodchance,Sandefjord,Open Play,20:00,V. Bindia,58.0,36.0,Right,3,2,2,0,Saved,Pau Morer,Open Play Pass,126.0,40.0,V. Bindia,Open Play Pass
+3836,NorEs,2383858,2017-04-05,17:00:00,Sandefjord,Rosenborg,verygoodchance,verygoodchance,Sandefjord,Open Play,27:05,A. Seck,-20.0,21.0,Head,1,0,2,0,Missed,Pau Morer,Open Play Pass,27.0,23.0,W. Kurtovic,Free Kick

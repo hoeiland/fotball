@@ -7,6 +7,8 @@ import javax.xml.parsers.ParserConfigurationException;
 
 import org.xml.sax.SAXException;
 
+import Stratagem.ChanceReader;
+
 public class maintest {
 	public static void main(String[] args) throws ClassNotFoundException, SAXException, IOException, ParserConfigurationException, SQLException {
 //		xmlReader.readEventFiles();
@@ -15,6 +17,8 @@ public class maintest {
 //		MarkovBuilder.setStateAction();
 //		Reinforcement.learning();
 //		ReadSquads.insertAllSeasonsNorway();
-		ReadSquads.findPlayerTeam();
+//		ReadSquads.findPlayerTeam();
+//		ChanceReader.readChanceCSV("chances/2017-04-13_chances.csv");
+		GameTimeReader.setPlayerGameTime();
 	}
 }
