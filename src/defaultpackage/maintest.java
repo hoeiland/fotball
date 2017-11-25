@@ -19,6 +19,7 @@ public class maintest {
 //		ReadSquads.insertAllSeasonsNorway();
 //		ReadSquads.findPlayerTeam();
 //		ChanceReader.readChanceCSV("chances/2017-04-13_chances.csv");
-		GameTimeReader.setPlayerGameTime();
+//		GameTimeReader.setPlayerGameTime();
+		DefImpactReader.buildDefImpact();
 	}
 }
