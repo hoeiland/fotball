@@ -258,4 +258,16 @@ public class Dbhandler {
 		int [] updateCounts = stmt.executeBatch();
 		closeConnection();
 	}
+
+	public static void insertDefImpacts(ArrayList<DefImpact> playerValues) throws ClassNotFoundException, SQLException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		for (int i = 0 ; i < playerValues.size() ; i++){
+			DefImpact di = playerValues.get(i);
+			String sql = "INSERT INTO playergamedefimpact VALUES ("+ di.getPlayerID()+","+di.getGameID()+","+ di.getTeamID() +","+di.getTackle()+","+di.getInterception()+","+di.getBallTouch()+","+di.getBlockedShot()+","+di.getClearance()+","+di.getBallRecovery()+");\n";
+			stmt.addBatch(sql);
+		}
+		int[] updateCounts = stmt.executeBatch();
+		closeConnection();
+	}
 }
