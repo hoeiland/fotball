@@ -218,16 +218,13 @@ public class xmlReader {
 					else{ //lag er ulike
 						if (thisEvent.getAction_type().equals("Foul committed")){
 							Event nextEvent = eventList.get(i+1);
-							if (thisEvent.getEvent_id()==696609825){
-								System.out.println("Event");
-							}
 							try {
 								int nextEventPlayerID = nextEvent.getPlayer_id();
 								completeEventList.add(new Event(9999, "Ball received", 1, prevEvent.getTeam_id(), nextEventPlayerID, prevEvent.getXend(), prevEvent.getYend(),
 										100 - thisEvent.getXstart(), 100 - thisEvent.getYstart(), completeEventList.get(completeEventList.size()-1).getNumber()+1,
 										thisEvent.getSequence(), thisEvent.getGame_id(), thisEvent.getPeriod(), prevEvent.getMinute(), prevEvent.getSecond(), thisEvent.getGoaldifference()));
 								prevEvent = completeEventList.get(completeEventList.size()-1);
-							//	System.out.println("Ball carry hvor foul committed");
+							//	System.out.println("Ball received hvor foul committed");
 				         	}
 				         	catch (NumberFormatException E){
 				         		continue;
@@ -496,7 +493,7 @@ public class xmlReader {
 		return endCoordinates;
 	}
 
-	private static double getCarryLength(Event prevEvent, float currentXstart, float currentYstart, int currentTeamID){
+	public static double getCarryLength(Event prevEvent, float currentXstart, float currentYstart, int currentTeamID){
 		double carryLength = 0;
 		if (prevEvent.getTeam_id() == currentTeamID) {
 			double xdiff = 1.05*Math.abs(currentXstart - prevEvent.getXend());
