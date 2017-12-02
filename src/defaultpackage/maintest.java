@@ -20,6 +20,6 @@ public class maintest {
 //		ReadSquads.findPlayerTeam();
 //		ChanceReader.readChanceCSV("chances/2017-04-13_chances.csv");
 //		GameTimeReader.setPlayerGameTime();
-		DefImpactReader.buildDefImpact();
+		convertScraped.insertEventlistsFromGames();
 	}
 }

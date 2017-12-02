@@ -52,6 +52,11 @@ public class Game {
 		this.matchday = matchday;
 		this.season = season;
 	}
+	@Override
+	public String toString() {
+		return "Game [game_id=" + game_id + ", home_team_id=" + home_team_id + ", away_team_id=" + away_team_id
+				+ ", matchday=" + matchday + ", season=" + season + ", score=" + score + "]";
+	}
 	public int getOtherTeam (int team){
 		if (team == this.getHome_team_id()) return this.away_team_id;
 		else return this.getHome_team_id();

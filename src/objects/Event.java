@@ -116,4 +116,9 @@ public class Event {
 	public float getYend() {
 		return yend;
 	}
+
+	public void setEvent_id(Long eventid) {
+		this.event_id = eventid;
+		
+	}
 }
