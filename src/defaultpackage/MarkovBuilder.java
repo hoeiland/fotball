@@ -477,7 +477,7 @@ public class MarkovBuilder {
 		Dbhandler.insertStatesAndTrans(stateList, transList);
 
 	}
-	private static int getMatchStatus(int goaldifference){
+	public static int getMatchStatus(int goaldifference){
 		if (goaldifference>0) return 1;
 		else if (goaldifference<0) return -1;
 		else return 0;

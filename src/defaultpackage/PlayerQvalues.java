@@ -10,9 +10,9 @@ import objects.PlayerImpact;
 
 public class PlayerQvalues {
 
-	public static void buildPlayerImpact() throws ClassNotFoundException, SQLException{
+	public static void buildPlayerImpactFromGame(int gameid) throws ClassNotFoundException, SQLException{
 
-		ResultSet events = Dbhandler.getEventsAndValues();
+		ResultSet events = Dbhandler.getEventsAndValuesFromGame(gameid);
 
 		
 		Hashtable<Integer, PlayerImpact> gameValues = new Hashtable<Integer, PlayerImpact>(); //one aggregated value per player per game
@@ -26,22 +26,16 @@ public class PlayerQvalues {
 			int gameID = events.getInt("GameID");
 			int playerID = events.getInt("PlayerID");
 			int homeID =  events.getInt("HomeID");
-			int awayID = events.getInt("AwayID");
-			int endStateID = events.getInt("EndID");
 
 			double qValue = events.getDouble("QValue");
-			double endStateVal =  events.getDouble("EndValue");
-			double endStateReward = events.getDouble("Endreward");
 			double startStateVal = events.getDouble("StartValue");
 			String action = events.getString("E.Action");
-			double prevStartVal = 0;
 
 			if(gameID != prevGameID){
 				System.out.println("Begynner med gameID: " + gameID);
 				c++;
 				gameValues = new Hashtable<Integer, PlayerImpact>();
 				playerValues.put(gameID, gameValues);
-				prevStartVal = 0;
 			}
 
 			Double value=0.0;
@@ -62,7 +56,6 @@ public class PlayerQvalues {
 				pi.updateValue(action, value);
 				gameValues.put(playerID, pi);
 			}
-			prevStartVal = startStateVal;
 			prevGameID = gameID;
 
 		}
@@ -73,15 +66,10 @@ public class PlayerQvalues {
 			for (Integer pID: playerIDs){
 				playervals.get(pID).setTotal();
 				playerValueList.add(playervals.get(pID));
-//				System.out.println(playervals.get(pID)); //Testing purposes
 			}
 		}
 
-//		System.out.println(c);
-		Dbhandler.insertPlayerImpact(playerValueList);
-
-
-
+		ScrapedDbHandler.insertPlayerImpact(playerValueList);
 	}
 
 }

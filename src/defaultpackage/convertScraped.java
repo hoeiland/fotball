@@ -9,19 +9,41 @@ import objects.Game;
 
 public class convertScraped {
 	
-	public static void insertEventlistsFromGames() throws ClassNotFoundException, SQLException {
+	public static void setTransitionIdRangeOfGames(int firstID, int lastID) throws ClassNotFoundException, SQLException, InterruptedException {
+		for (int i = firstID ; i<=lastID; i++) {
+			IdentifyStateTransition.gameTransitions(i);
+		}
+	}
+	
+	public static void findPlayerImpactFromRangeOfGames(int firstID, int lastID) throws ClassNotFoundException, SQLException {
+		for (int i = firstID; i<= lastID; i++) {
+			PlayerQvalues.buildPlayerImpactFromGame(i);
+		}
+	}
+	
+	public static void insertEventlistsFromGames(int firstGameID, int lastGameID) throws ClassNotFoundException, SQLException {
 		ArrayList<ArrayList<Event>> List = new ArrayList<ArrayList<Event>>();
-		for (int i = 28560;i<28928;i++) {
-			ArrayList<Event> events= convertGame(i);
+		for (int i = firstGameID;i<=lastGameID;i++) {
+			ArrayList<Event> events= convertEventsFromGame(i);
 			List.add(events);
 			System.out.println(i);
 		}
 		Dbhandler.insertEvents(List);
 	}
 	
+	public static void convertAndInsertGames(int firstGameID, int lastGameID) throws ClassNotFoundException, SQLException {
+		ArrayList<Game> gamelist = new ArrayList<Game>();
+		for (int i = firstGameID; i<= lastGameID; i++) {
+			ResultSet teams = ScrapedDbHandler.getTeams(i);
+			Game g = getGame(teams);
+			if (g.getGame_id()!=0) gamelist.add(g);		
+		}
+		Dbhandler.insertGames(gamelist);
+	}
 	
 	
-	public static ArrayList<Event> convertGame(int gameid) throws ClassNotFoundException, SQLException{
+	
+	public static ArrayList<Event> convertEventsFromGame(int gameid) throws ClassNotFoundException, SQLException{
 		ResultSet rs = ScrapedDbHandler.getScrapedEvents(gameid);
 		ResultSet teams = ScrapedDbHandler.getTeams(gameid);
 		Game g = getGame(teams);
@@ -123,6 +145,7 @@ public class convertScraped {
 		}
 		number++;
 		eventid = gameid + "" + number;
+		if(eventlist.size()==0) return eventlist;
 		Event prevEvent = eventlist.get(eventlist.size()-1);
 		eventlist.add(new Event(Long.parseLong(eventid), "End of period", 1, 0, 0, 50, 50, 50, 50, number, sequence, gameid, 2, prevEvent.getMinute(), prevEvent.getSecond(), gd));
 		eventlist = insertConstructedEvents(eventlist);

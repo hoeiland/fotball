@@ -5,6 +5,9 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
+
+import objects.PlayerImpact;
 
 public class ScrapedDbHandler {
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
@@ -50,6 +53,32 @@ public class ScrapedDbHandler {
 		String sql = "SELECT mt.*, m.season_id FROM match_teams as mt inner join matches as m on m.match_id = mt.match_id WHERE mt.match_id = " + gameid;
 		ResultSet rs = stmt.executeQuery(sql);
 		return rs;
+	}
+
+	public static ResultSet getGame(int gameid) throws ClassNotFoundException, SQLException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		String sql = "SELECT * FROM matches WHERE match_id = " + gameid;
+		ResultSet rs = stmt.executeQuery(sql);
+		closeConnection();
+		return rs;
+	}
+	
+	public static void insertPlayerImpact(ArrayList<PlayerImpact> playerValues) throws SQLException, ClassNotFoundException{
+		openConnection();
+		Statement stmt = conn.createStatement();
+		for (int i = 0 ; i < playerValues.size() ; i++){
+			PlayerImpact pi = playerValues.get(i);
+			String sql = "INSERT INTO playergameimpact"+" VALUES ("+pi.getPlayerID()+"," + pi.getGameID() + "," + pi.getTeamID() + "," +pi.getTotal() +","+pi.getPass() +","+ pi.getLongPass() + "," + pi.getBallCarry() + "," + pi.getBallRecovery() + "," + pi.getBallReceived() +
+						"," + pi.getAerialDuel() + "," + pi.getClearance() + "," + pi.getThrowInTaken() + "," + pi.getBallTouch() + "," + pi.getInterception() + "," + pi.getBlockedShot() + "," + pi.getSavedShot() + "," + pi.getCross()
+						+ "," + pi.getTackle() + "," + pi.getShot() + "," + pi.getHeadedShot() + "," + pi.getTakeOn() + "," + pi.getFreekickPass() + "," + pi.getFoulCommitted() + "," + pi.getFouled()
+						+"," +pi.getDispossessed() + "," + pi.getCornerTaken()+");\n";
+			stmt.addBatch(sql);
+			System.out.println(sql);
+			
+		}
+		int[] updateCounts = stmt.executeBatch();
+		closeConnection();
 	}
 
 }

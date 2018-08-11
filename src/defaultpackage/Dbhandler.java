@@ -63,6 +63,17 @@ public class Dbhandler {
 		return rs;
 	}
 	
+	public static ResultSet getMarkovEventsFromGame(int gameid) throws ClassNotFoundException, SQLException{
+		openConnection();
+		Statement stmt = conn.createStatement();
+		String query = "SELECT E.EventID, E.Action, E.Outcome, E.Minute, E.Period, E.GoalDifference, E.TeamID, E.Xstart, E.Ystart, E.Xend, E.Yend, E.Number, "
+				+ "G.HomeID, G.AwayID FROM Event AS E INNER JOIN Game AS G ON E.GameID = G.GameID WHERE E.GameID =" + gameid +" AND E.Action != 'Ball received' AND E.Action != 'Fouled' AND !(Action = 'Take on' AND Outcome = 0) "
+				+ "AND !(Action = 'Aerial duel' AND Outcome=0) ORDER BY E.Number;";
+		System.out.println(query);
+		ResultSet rs = stmt.executeQuery(query);
+		return rs;
+	}
+	
 	public static void updateEventStateID(ArrayList<String> sqlList) throws ClassNotFoundException, SQLException{
 		openConnection();
 		Statement stmt = conn.createStatement();
@@ -89,6 +100,20 @@ public class Dbhandler {
 			stmt.addBatch(sql);
 		}
 		updateCounts = stmt.executeBatch();
+		System.out.println("StateTransitions inserted");
+		closeConnection();
+	}
+	
+	public static void insertStateTrans(ArrayList<StateTransition> transitionArray) throws ClassNotFoundException, SQLException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		String sql = "";
+		for (StateTransition st : transitionArray){
+			sql = "INSERT INTO StateTransition (TransitionID, StartID, EndID, Action, Occurrence) VALUES (" + st.getStateTransitionID() + "," +st.getStartState().getStateID() +"," + st.getEndState().getStateID() + "," + "'" + st.getAction()
+			+ "'" + "," + st.getOccurrence() + ");\n";
+			stmt.addBatch(sql);
+		}
+		int[] updateCounts = stmt.executeBatch();
 		System.out.println("StateTransitions inserted");
 		closeConnection();
 	}
@@ -269,5 +294,33 @@ public class Dbhandler {
 		}
 		int[] updateCounts = stmt.executeBatch();
 		closeConnection();
+	}
+
+	public static int getMaxTransitionID() throws SQLException, ClassNotFoundException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		String sql = "SELECT Max(TransitionID) FROM StateTransition";
+		ResultSet rs = stmt.executeQuery(sql);
+		int max = 0;
+		while(rs.next()) {
+			max = rs.getInt("Max(TransitionID)");
+		}
+		return max;
+	}
+
+	public static ResultSet getEventsAndValuesFromGame(int gameid) throws SQLException, ClassNotFoundException {
+		openConnection();
+		Statement stmt = conn.createStatement();
+		String query = "SELECT E.Number, E.EventID, E.Action, E.TeamID, E.PlayerID, E.GameID, E.StateTransitionID, "
+				+ "ST.TransitionID, ST.StartID, ST.EndID, SA.StateID, SA.Action, SA.Value AS QValue, StartS.Value AS StartValue, EndS.Value AS EndValue, EndS.Reward AS Endreward, G.HomeID, G.AwayID "
+				+ "FROM `Event` AS E "
+				+ "INNER JOIN StateTransition AS ST ON E.StateTransitionID=ST.TransitionID "
+				+ "INNER JOIN State AS StartS ON ST.StartID=StartS.StateID "
+				+ "INNER JOIN StateAction AS SA ON ST.StartID=SA.StateID "
+				+ "INNER JOIN State AS EndS	ON ST.EndID=EndS.StateID "
+				+ "INNER JOIN Game AS G	ON E.GameID=G.GameID WHERE E.GameID = "+ gameid + " AND SA.Action = E.Action "
+				+ "ORDER BY E.EventID ASC";
+		ResultSet rs = stmt.executeQuery(query);
+		return rs;
 	}
 }
